@@ -4,71 +4,41 @@
 #+OPTIONS: toc:nil reveal_mathjax:t
 #+OPTIONS: num:nil
 #+REVEAL_THEME: night
-#+REVEAL_TRANS: linear    
+#+REVEAL_TRANS: linear 
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/2.5.0/   
 
 
 * Cells and Organisms
-
-* Chemical and Thermal Energy
-
+** Chemical and Thermal Energy
 * Chemical Reactions
-
 * Chemistry intro
-
 * Circuits
-
 * Circulation and Respiration
-
 * Copy of Light and Sound Waves
-
 * Digestion
-
 * Ecology
-
 * Electrostatics
-
 * Elements, atoms and futher reactions
-
 * Energy
-
 * Flowering Plants
-
 * Forces and Motion
-
 * Habitats and the Environment
-
 * Light
-
 * Light and Sound Waves
-
 * Living Organisms and Classifications
-
 * Magnetism
-
 * Materials and Matter
-
 * Metals and Non-metals
-
 * Misc to be sorted out
-
 * Moments, Pressure and Density
-
 * Natural Selection
-
 * Natural Selection1
-
 * Nutrition
-
 * Photosynthesis
-
 * Plants and speeding up (self teaching)
-
 * Plate Tectonics
-
 * Reactivity
-
 * space
-
 * Speeding Up
 * The Earth 
 
