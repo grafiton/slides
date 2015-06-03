@@ -2,6 +2,7 @@
 #+Author: Christophe Grain
 # +Email: christophe.grain@gmail.com
 #+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear    
 

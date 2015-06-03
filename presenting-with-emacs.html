@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Presenting with Emacs</title>
+<meta name="author" content="(John Stevenson)"/>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Presenting with Emacs</h1>
+<h2>John Stevenson</h2>
+<h2><a href="mailto:john@jr0cket.co.uk">john@jr0cket.co.uk</a></h2>
+<h2></h2>
+</section>
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1"><span class="section-number-2">1</span> Emacs based presentation</h2>
+<p>
+Emacs gives a simple way to give interactive presentations
+</p>
+
+
+</section>
+<section id="slide-sec-1-1">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> org-present</h3>
+<span class="fragment roll-in"><p>
+Cycle through slides under each top level heading
+</p></span>
+
+</section>
+<section id="slide-sec-1-2">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> org-presie</h3>
+<span class="fragment roll-in"><p>
+Expand one top-level heading at a time, allowing the audience to see progress through the talk  
+</p></span>
+
+
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Web-based Presentations</h2>
+<span class="fragment grow highlight-red"><p>
+Try Reveal.js
+</p></span>
+
+<ul class="fragment roll-in">
+<li>Nice animations in your presentation</li>
+<li>Only need a browser, no PowerPoint</li>
+<li>Share presentation on the web</li>
+<li>Deploy the file on your server (eg. Heroku)</li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3"><span class="section-number-2">3</span> What is Reveal.js?</h2>
+<p>
+HTML5-based presentation framework, created by <i>Hakim El Hattab</i>.
+</p>
+
+<p>
+Write presentations in HTML, present it by Reveal.js.
+</p>
+
+<p>
+This page is a Reveal.js presentation. Check the
+HTML source codes.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4"><span class="section-number-2">4</span> Don't know HTML?</h2>
+<p>
+Try Org-Reveal, an Emacs Orgmode extension.
+</p>
+
+<p>
+Export simple formatted Org text to ready-to-use Reveal.js
+presentations.
+</p>
+
+
+<div class="figure">
+<p><img src="./images/org-reveal.png" alt="org-reveal.png" />
+</p>
+</div>
+
+<ul class="fragment roll-in">
+<li>One Org documents, multiple export format.</li>
+<li>Now Org knows Reveal.js!</li>
+
+</ul>
+
+
+
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5"><span class="section-number-2">5</span> Reveal.js is 2-D</h2>
+<p>
+Org-Reveal knows how to drill down into a subject.
+</p>
+
+<p>
+Press the "Down" key on the page or the down arrow
+</p>
+
+</section>
+<section id="slide-sec-5-1">
+<h3 id="sec-5-1"><span class="section-number-3">5.1</span> Fragments in Reveal.js</h3>
+<ul class="fragment highlight-blue">
+<li>Create</li>
+<li>Fragment</li>
+<li>At Ease</li>
+
+</ul>
+
+<div class="org-src-container">
+<label class="org-src-name">The Org text source.</label>
+<pre  class="src src-org"><span style="color: #586e75; font-style: italic;">#+ATTR_REVEAL: :frag</span>
+   * Create
+   * Fragment
+   * At Ease
+</pre>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-6" data-state="alert">
+<h2 id="sec-6"><span class="section-number-2">6</span> Reveal.js Can Alert</h2>
+
+<p>
+Change slide style to wake up the sleepy audience.
+</p>
+
+<p>
+So do Org-Reveal.
+</p>
+<div class="org-src-container">
+
+<pre  class="src src-org"><span style="color: #2aa198; font-weight: bold;">** Reveal.js Can Alert</span>
+<span style="color: #586e75; font-style: italic;">   :PROPERTIES:</span>
+   <span style="color: #586e75; font-style: italic;">:reveal_data_state:</span> alert
+<span style="color: #586e75; font-style: italic;">   :END:</span>
+</pre>
+</div>
+
+</section>
+<section id="slide-sec-6-1">
+<h3 id="sec-6-1"><span class="section-number-3">6.1</span> Paste Codes</h3>
+<p>
+Paste codes in your favorite Emacs style.
+</p>
+<div class="org-src-container">
+
+<pre  class="src src-c++">cout &lt;&lt; <span style="color: #2aa198;">"Hello world! --C++"</span>
+     &lt;&lt; endl;
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre  class="src src-lisp">(message 
+ <span style="color: #2aa198;">"Hello world! --LISP"</span>
+)
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre  class="src src-python"><span style="color: #859900; font-weight: bold;">print</span> <span style="color: #2aa198;">"Hello world! --Python"</span>
+</pre>
+</div>
+
+</section>
+<section id="slide-sec-6-2">
+<h3 id="sec-6-2"><span class="section-number-3">6.2</span> Display Math</h3>
+<p>
+Write equations in Org. Present equations in HTML5.
+</p>
+
+<p>
+\(\lim_{x \to \infty} \exp(-x) = 0\)
+</p>
+
+<div class="org-src-container">
+
+<pre  class="src src-org">$\lim_{x \to \infty} \exp(-x) = 0$
+</pre>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7"><span class="section-number-2">7</span> The Org Source</h2>
+<p>
+Get Org source text for this presentation <a href="http://nage-eda.org/home/yujie/index.org">here</a>.
+</p>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8"><span class="section-number-2">8</span> Get Reveal.js and Org-reveal</h2>
+<ul>
+<li>Reveal.js on GitHub:<br  />
+    <a href="https://github.com/hakimel/reveal.js">https://github.com/hakimel/reveal.js</a></li>
+<li>Org-reveal on GitHub:<br  />
+    <a href="https://github.com/yjwen/org-reveal">https://github.com/yjwen/org-reveal</a></li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
