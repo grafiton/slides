@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>whole-curriculum</title>
+<meta name="author" content="(Christophe Grain)"/>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/moon.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>whole-curriculum</h1>
+<h2>Christophe Grain</h2>
+<h2><a href="mailto:tof@emg510">tof@emg510</a></h2>
+<h2></h2>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-sec-1">1. Cells and Organisms</a></li>
+<li><a href="#/slide-sec-2">2. Chemical and Thermal Energy</a></li>
+<li><a href="#/slide-sec-3">3. Chemical Reactions</a></li>
+<li><a href="#/slide-sec-4">4. Chemistry intro</a></li>
+<li><a href="#/slide-sec-5">5. Circuits</a></li>
+<li><a href="#/slide-sec-6">6. Circulation and Respiration</a></li>
+<li><a href="#/slide-sec-7">7. Copy of Light and Sound Waves</a></li>
+<li><a href="#/slide-sec-8">8. Digestion</a></li>
+<li><a href="#/slide-sec-9">9. Ecology</a></li>
+<li><a href="#/slide-sec-10">10. Electrostatics</a></li>
+<li><a href="#/slide-sec-11">11. Elements, atoms and futher reactions</a></li>
+<li><a href="#/slide-sec-12">12. Energy</a></li>
+<li><a href="#/slide-sec-13">13. Flowering Plants</a></li>
+<li><a href="#/slide-sec-14">14. Forces and Motion</a></li>
+<li><a href="#/slide-sec-15">15. Habitats and the Environment</a></li>
+<li><a href="#/slide-sec-16">16. Light</a></li>
+<li><a href="#/slide-sec-17">17. Light and Sound Waves</a></li>
+<li><a href="#/slide-sec-18">18. Living Organisms and Classifications</a></li>
+<li><a href="#/slide-sec-19">19. Magnetism</a></li>
+<li><a href="#/slide-sec-20">20. Materials and Matter</a></li>
+<li><a href="#/slide-sec-21">21. Metals and Non-metals</a></li>
+<li><a href="#/slide-sec-22">22. Misc to be sorted out</a></li>
+<li><a href="#/slide-sec-23">23. Moments, Pressure and Density</a></li>
+<li><a href="#/slide-sec-24">24. Natural Selection</a></li>
+<li><a href="#/slide-sec-25">25. Natural Selection1</a></li>
+<li><a href="#/slide-sec-26">26. Nutrition</a></li>
+<li><a href="#/slide-sec-27">27. Photosynthesis</a></li>
+<li><a href="#/slide-sec-28">28. Plants and speeding up (self teaching)</a></li>
+<li><a href="#/slide-sec-29">29. Plate Tectonics</a></li>
+<li><a href="#/slide-sec-30">30. Reactivity</a></li>
+<li><a href="#/slide-sec-31">31. space</a></li>
+<li><a href="#/slide-sec-32">32. Speeding Up</a></li>
+<li><a href="#/slide-sec-33">33. The Earth</a></li>
+</ul>
+</div>
+</div>
+</section>
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1"><span class="section-number-2">1</span> Cells and Organisms</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Chemical and Thermal Energy</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3"><span class="section-number-2">3</span> Chemical Reactions</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4"><span class="section-number-2">4</span> Chemistry intro</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5"><span class="section-number-2">5</span> Circuits</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6"><span class="section-number-2">6</span> Circulation and Respiration</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7"><span class="section-number-2">7</span> Copy of Light and Sound Waves</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8"><span class="section-number-2">8</span> Digestion</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-9">
+<h2 id="sec-9"><span class="section-number-2">9</span> Ecology</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-10">
+<h2 id="sec-10"><span class="section-number-2">10</span> Electrostatics</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-11">
+<h2 id="sec-11"><span class="section-number-2">11</span> Elements, atoms and futher reactions</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-12">
+<h2 id="sec-12"><span class="section-number-2">12</span> Energy</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-13">
+<h2 id="sec-13"><span class="section-number-2">13</span> Flowering Plants</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-14">
+<h2 id="sec-14"><span class="section-number-2">14</span> Forces and Motion</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-15">
+<h2 id="sec-15"><span class="section-number-2">15</span> Habitats and the Environment</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-16">
+<h2 id="sec-16"><span class="section-number-2">16</span> Light</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-17">
+<h2 id="sec-17"><span class="section-number-2">17</span> Light and Sound Waves</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-18">
+<h2 id="sec-18"><span class="section-number-2">18</span> Living Organisms and Classifications</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-19">
+<h2 id="sec-19"><span class="section-number-2">19</span> Magnetism</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-20">
+<h2 id="sec-20"><span class="section-number-2">20</span> Materials and Matter</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-21">
+<h2 id="sec-21"><span class="section-number-2">21</span> Metals and Non-metals</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-22">
+<h2 id="sec-22"><span class="section-number-2">22</span> Misc to be sorted out</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-23">
+<h2 id="sec-23"><span class="section-number-2">23</span> Moments, Pressure and Density</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-24">
+<h2 id="sec-24"><span class="section-number-2">24</span> Natural Selection</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-25">
+<h2 id="sec-25"><span class="section-number-2">25</span> Natural Selection1</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-26">
+<h2 id="sec-26"><span class="section-number-2">26</span> Nutrition</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-27">
+<h2 id="sec-27"><span class="section-number-2">27</span> Photosynthesis</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-28">
+<h2 id="sec-28"><span class="section-number-2">28</span> Plants and speeding up (self teaching)</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-29">
+<h2 id="sec-29"><span class="section-number-2">29</span> Plate Tectonics</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-30">
+<h2 id="sec-30"><span class="section-number-2">30</span> Reactivity</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-31">
+<h2 id="sec-31"><span class="section-number-2">31</span> space</h2>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-32">
+<h2 id="sec-32"><span class="section-number-2">32</span> Speeding Up</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-33">
+<h2 id="sec-33"><span class="section-number-2">33</span> The Earth</h2>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
