@@ -26,12 +26,12 @@ Here we change the background
 :reveal_background: #FF0000
 :END:
 * slide 6
-- all these bullet-points
-- show up on the page
-- as soon as its shown
-
+ - all these bullet-points
+ - show up on the page
+ - as soon as its shown
 #+ATTR_REVEAL: :frag highlight-red
-- this last one is then highlighted in red
+ - this last one is then highlighted in red
+
 * slide 7
 #+ATTR_REVEAL: :frag roll-in
 - show bullet-points
