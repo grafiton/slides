@@ -6,8 +6,8 @@
 <title>Presenting with Emacs</title>
 <meta name="author" content="(Christophe Grain)"/>
 
-<link rel="stylesheet" href="file:///home/tof/reveal.js/css/reveal.css"/>
-<link rel="stylesheet" href="file:///home/tof/reveal.js/css/theme/night.css" id="theme"/>
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -15,7 +15,7 @@
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'file:///home/tof/reveal.js/css/print/pdf.css';
+        link.href = './css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
     }
 </script>
@@ -111,8 +111,8 @@ Here we change the background
 </div>
 </div>
 
-<script src="file:///home/tof/reveal.js/lib/js/head.min.js"></script>
-<script src="file:///home/tof/reveal.js/js/reveal.js"></script>
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
 
 <script>
 // Full list of configuration options available here:
@@ -139,11 +139,11 @@ multiplex: {
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
- { src: 'file:///home/tof/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
- { src: 'file:///home/tof/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: 'file:///home/tof/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: 'file:///home/tof/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
- { src: 'file:///home/tof/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]
 });
 </script>

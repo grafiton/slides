@@ -1,6 +1,6 @@
 #+Title: Presenting with Emacs
 #+Author: Christophe Grain
-#+Email: christophe.grain@gmail.com
+# +Email: christophe.grain@gmail.com
 #+OPTIONS: toc:nil reveal_mathjax:t
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear    
