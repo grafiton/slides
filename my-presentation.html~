@@ -27,17 +27,17 @@
 <section id="sec-title-slide">
 <h1>Presenting with Emacs</h1>
 <h2>Christophe Grain</h2>
-<<<<<<< HEAD
 <h2><a href="mailto:tof@emg510">tof@emg510</a></h2>
-=======
-<h2><a href="mailto:christophe.grain@gmail.com">christophe.grain@gmail.com</a></h2>
->>>>>>> dc4fa1c8ddfee5006bed9f19ba01284f0c8e6290
 <h2></h2>
 </section>
+
 
 <section>
 <section id="slide-sec-1">
 <h2 id="sec-1"><span class="section-number-2">1</span> first slide 1</h2>
+<p>
+Test to change
+</p>
 </section>
 </section>
 <section>
@@ -65,7 +65,7 @@ This slide contains a list
 <section id="slide-sec-3">
 <h2 id="sec-3"><span class="section-number-2">3</span> slide 3</h2>
 <p>
-[[<a href="http://www.google.co.uk">http://www.google.co.uk</a>] [Google search engine]]
+<a href="http://www.google.co.uk">Google search engine</a>
 </p>
 </section>
 </section>
