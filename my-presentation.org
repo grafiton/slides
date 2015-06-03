@@ -29,7 +29,6 @@ Here we change the background
  - all these bullet-points
  - show up on the page
  - as soon as its shown
-#+ATTR_REVEAL: :frag highlight-red
  - this last one is then highlighted in red
 
 * slide 7
