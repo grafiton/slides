@@ -1,13 +1,11 @@
 #+Title: Presenting with Emacs
 #+Author: Christophe Grain
-# +Email: christophe.grain@gmail.com
+#+Email: christophe.grain@gmail.com
 #+OPTIONS: toc:nil reveal_mathjax:t
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear    
 
-
 * first slide 1
-Test to change
 * second slide 2
 ** sub-slide 2.1
 ** sub-slide 2.2
@@ -16,7 +14,7 @@ This slide contains a list
  - another item in the list
  - a last item
 * slide 3
-[[http://www.google.co.uk][Google search engine]]
+[[http://www.google.co.uk] [Google search engine]]
 * slide 4
 Here's an image
 [[http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BH_LMC.png/261px-BH_LMC.png]]
