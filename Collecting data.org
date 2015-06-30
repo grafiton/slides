@@ -1,0 +1,41 @@
+#+Title: Collecting and displaying data
+#+Author: Book p. 40 (chapter 5)
+#+Email: 
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+
+* What are data?
+How would you define data?
+* Data are pieces of informations.
+* Primary and secondary data
+There is two main kinds of data
+** Primary data
+Primary data is information you collect *yourself*.
+Give two advantages and two disatdvantages of primary data.
+** Secondary data
+Secondary data is information somebody else has collected.
+Examples:
+- Data from internet
+- Data from newspapers
+Give two advantages and two disatdvantages of primary data.
+* Survey
+Survey are needed by companies and organisations for a number of reasons.
+Survey should be 
+- meaningful
+- straight to the point
+* Designing a survey
+Imagine that the government wishes to spend more money on schools it may need to raise more money through taxes to achieves this.
+It may want to carry out a survey to fidn out what people think of that idea.
+* In group, find out what is the best question for this survey
+1. Do you think you pay too much tax?
+2. Do you think our schools are good?
+3. Would you be prepared to pay more tax if the money was spent on improving schools?
+4. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+# A. Do you think you pay too much tax?
+# B. Do you think our schools are good?
+# C. Would you be prepared to pay more tax if the money was spent on improving schools?
+# D. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+
+

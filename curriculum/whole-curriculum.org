@@ -9,7 +9,7 @@
 
 
 * Cells and Organisms
-** Chemical and Thermal Energy
+* Chemical and Thermal Energy
 * Chemical Reactions
 * Chemistry intro
 * Circuits

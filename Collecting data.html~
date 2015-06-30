@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Collecting and displaying data</title>
+<meta name="author" content="(Book p. 40 (chapter 5))"/>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Collecting and displaying data</h1>
+<h2>Book p. 40 (chapter 5)</h2>
+<h2><a href="mailto:"></a></h2>
+<h2></h2>
+</section>
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1">What are data?</h2>
+<p>
+How would you define data?
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2">Data are pieces of informations.</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3">Primary and secondary data</h2>
+<p>
+There is two main kinds of data
+</p>
+</section>
+<section id="slide-sec-3-1">
+<h3 id="sec-3-1">Primary data</h3>
+<p>
+Primary data is information you collect <b>yourself</b>.
+Give two advantages and two disatdvantages of primary data.
+</p>
+</section>
+<section id="slide-sec-3-2">
+<h3 id="sec-3-2">Secondary data</h3>
+<p>
+Secondary data is information somebody else has collected.
+Examples:
+</p>
+<ul>
+<li>Data from internet</li>
+<li>Data from newspapers</li>
+
+</ul>
+<p>
+Give two advantages and two disatdvantages of primary data.
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4">Survey</h2>
+<p>
+Survey are needed by companies and organisations for a number of reasons.
+Survey should be 
+</p>
+<ul>
+<li>meaningful</li>
+<li>straight to the point</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5">Designing a survey</h2>
+<p>
+Imagine that the government wishes to spend more money on schools it may need to raise more money through taxes to achieves this.
+It may want to carry out a survey to fidn out what people think of that idea.
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6">In group, find out what is the best question for this survey</h2>
+<p>
+a. Do you think you pay too much tax?
+b. Do you think our schools are good?
+c. Would you be prepared to pay more tax if the money was spent on improving schools?
+d. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+</p>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
