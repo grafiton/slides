@@ -37,6 +37,23 @@ It may want to carry out a survey to fidn out what people think of that idea.
 # B. Do you think our schools are good?
 # C. Would you be prepared to pay more tax if the money was spent on improving schools?
 # D. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+* Rules to observe to produce meaningfull and precise sets of data
+** 1. Make it clear what is it you are trying to find out
+For example. 'Excuse me. I am conducting a survey to find out if people would like to see new traffic lights at these crossroads. Please would you help me by answering a few simple questions?'
+** 2. Make the questions simple and give choice of answer
+For example, a television company wishes to know how much its coverage of the athletics events in the Beijing Olympics was watched.
+An example of a bad question would be:\\
+Did you watch much of the Olympics on TV?
+A better question might be:\\
+The Beijing Olympics were shown on TV. How many hours did you watch of the athletics events?\\
+*a)* none *b)* 1-5 hours *c)* 6-10 hours *d)* 11-15 hours *e)* 16-20 hours
+** 3. Make your question ask for the other person's opinion. Do not make it clear what your opinion is (this would be called /biased/ question or a /leading/ question).
+A bad example would be: Fishing is a very cruel pastime. Do you agree?\\
+A better question might be: Do you think that fishing is a cruel pastime?\\
+*a)* strongly agre *b)* agree *c)* neutral *d)* disagree *e)* strongly disagree
+** 4. Do not ask sensitive or embarrassing questions.
+[[./images/embarrass.jpg]]
+
 
 
 
