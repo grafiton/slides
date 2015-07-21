@@ -6,9 +6,9 @@
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear 
 
-* What are data?
+* What is data?
 How would you define data?
-* Data are pieces of informations.
+* Pieces of information are often called *data*
 * Primary and secondary data
 There is two main kinds of data
 ** Primary data
