@@ -59,7 +59,77 @@ Examples
 
 * Examples
 * Here is my dog
-
+[[./images/doge.jpg]]
+** Give example of qualitative data about doge.
+** Qualitative data
+- Doge has a yellow coat
+- Doge is excited
+- Doge looks funny
+** Give example of discrete quanitative data about doge.
+** Discrete quantitative
+- Doge has two eyes
+- Doge has 4 legs
+- Doge has 2 sisters and 3 brothers
+** Give example of continuous quantitative data about doge.
+** Continuous quantitative data
+- Doge weighs 10 kg
+- Doge is 41 cm tall
+- The distance between doge's ears is about 15 cm
+* Quiz
+** How tall is the biggest tree in the forest?
+[[./images/Forest.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How many bears are there in the forest?
+[[./images/Forest.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** How much did her wedding dress cost?
+[[./images/Kate.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** How long is her left arm?
+[[./images/Kate.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How high is Snowdon?
+[[./images/Mountain.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** What rock is Snowdon made of?
+[[./images/Mountain.jpeg]]
+#+ATTR_REVEAL: :frag (grow fade-out fade-out) :frag_idx (1 2 3)
+- Qualitative
+- Discrete
+- Continuous
+** How many gallons of water are in the lake?
+[[./images/Lake.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How many snowmen are there?
+[[./images/Snowmen.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** What colours are their eyes?
+[[./images/Snowmen.jpeg]]
+#+ATTR_REVEAL: :frag (grow fade-out fade-out) :frag_idx (1 2 3)
+- Qualitative
+- Discrete
+- Continuous
 
 
 * Survey
