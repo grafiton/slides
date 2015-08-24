@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Qucik Mental Calculations</title>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Qucik Mental Calculations</h1>
+<h2></h2>
+<h2><a href="mailto:tof@emg510">tof@emg510</a></h2>
+<h2></h2>
+</section>
+
+
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1">5 x 9 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2">45</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3">13 x 5 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4">65</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5">12 + 5 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6">17</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7">23 - 5 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8">18</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-9">
+<h2 id="sec-9">85 ÷ 5 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-10">
+<h2 id="sec-10">17</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-11">
+<h2 id="sec-11">23 x 5 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-12">
+<h2 id="sec-12">115</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-13">
+<h2 id="sec-13">39 x 9 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-14">
+<h2 id="sec-14">351</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-15">
+<h2 id="sec-15">12² = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-16">
+<h2 id="sec-16">144</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-17">
+<h2 id="sec-17">11 x 67 = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-18">
+<h2 id="sec-18">737</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-19">
+<h2 id="sec-19">2<sup>10</sup> = ?</h2>
+</section>
+</section>
+<section>
+<section id="slide-sec-20">
+<h2 id="sec-20">1024</h2>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.00,
+minScale: 2.00,
+maxScale: 2.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
