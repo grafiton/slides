@@ -6,8 +6,9 @@
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear 
 #+REVEAL_MARGIN: 0
-#+REVEAL_MIN_SCALE: 1.5
-#+REVEAL_MAX_SCALE: 2
+#+REVEAL_MIN_SCALE: 1
+#+REVEAL_MAX_SCALE: 1.5
+#+REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
 
 * Draw and label the 4 main organs of a plant
 * What two functions does the roots have ?
@@ -37,4 +38,4 @@
 * How can you prove plants produce O2? Design an experiment.
 * How can you prove plants need light to photosynthesize? 
 * How can you prove plants need CO2 to photosynthesize? 
-* Can roots photosynthesize? Explain your answers?R
+* Can roots photosynthesize? Explain your answers?
