@@ -1,0 +1,94 @@
+#+Title: Circulatory and respiratory system
+#+Author:
+# +Email:
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+#+REVEAL_MARGIN: 0
+#+REVEAL_MIN_SCALE: 1.5
+#+REVEAL_MAX_SCALE: 1.5
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+
+
+* Through what organ does air move into the lungs?
+The windpipe / The alveoli / The diaphragm
+** Through what organ does air move into the lungs?
+*The windpipe* / The alveoli  / The diaphragm
+*  What is the proper term for breathing?
+Ventilation / Respiration / Exasperation
+**  What is the proper term for breathing?
+*Ventilation* / Respiration / Exasperation
+* What are the tiny air sacs in the lungs called?
+Ravioli / Bronchioles  / Alveoli
+** What are the tiny air sacs in the lungs called?
+Ravioli / Bronchioles  / *Alveoli*
+* What are the products of aerobic respiration?
+Carbon dioxide and water / Lactic acid / Oxygen and glucose
+** What are the products of aerobic respiration?
+*Carbon dioxide and water* / Lactic acid / Oxygen and glucose
+* Where does respiration happen?
+Cell membrane / Mitochondria / Nucleus
+** Where does respiration happen?
+Cell membrane / *Mitochondria* / Nucleus
+* What reaction occurs in yeast?
+Photosynthesis / Ventilation / Fermentation
+** What reaction occurs in yeast?
+Photosynthesis / Ventilation / *Fermentation*
+* Which organ system helps us breathe?
+Gas exchange system / Circulatory system / Nervous system
+** Which organ system helps us breathe?
+*Gas exchange system* / Circulatory system / Nervous system
+* What does the trachea divide into?
+Alveoli / Two bronchi / Bronchioles
+** What does the trachea divide into?
+Alveoli / *Two bronchi* / Bronchioles
+* What happens to the diaphragm when you breathe in?
+Contracts and moves upwards / Relaxes and moves downwards / Contracts and moves downwards
+** What happens to the diaphragm when you breathe in?
+*Contracts and moves upwards* / Relaxes and moves downwards / Contracts and moves downwards
+* Which of these is an adaptation of the lungs?
+The alveoli have a huge surface area / Villi are only one cell thick / The alveoli have very dry walls
+** Which of these is an adaptation of the lungs?
+*The alveoli have a huge surface area* / Villi are only one cell thick / The alveoli have very dry walls
+* Cardiovascular system consists of the heart, blood and:
+blood vessels / lungs / muscles
+** Cardiovascular system consists of the heart, blood and:
+*blood vessels* / lungs / muscles
+* Oxygenation takes place in the:
+lungs / heart / blood vessels
+** Oxygenation takes place in the:
+*lungs* / heart / blood vessels
+* Stroke volume is the volume, per heart beat, of:
+carbon dioxide removed / blood pumped / air breathed
+** Stroke volume is the volume, per heart beat, of:
+carbon dioxide removed / *blood pumped* / air breathed
+* Cardiac output is the amount of blood pumped by the heart:
+in one beat / during exercise / in one minute
+** Cardiac output is the amount of blood pumped by the heart:
+*in one beat* / during exercise / in one minute
+* The three types of blood vessels are arteries, veins and:
+neurones / alveoli / capillaries
+** The three types of blood vessels are arteries, veins and:
+neurones / alveoli / *capillaries*
+* The main work of the capillaries is:
+gaseous exchange / pumping blood / equalising pressure
+** The main work of the capillaries is:
+*gaseous exchange* / pumping blood / equalising pressure
+* Blood consists of plasma, white and red cells and:
+nitrogen / droplets / platelets
+** Blood consists of plasma, white and red cells and:
+nitrogen / droplets / *platelets*
+* Haemoglobin is found in the:
+platelets / red blood cells / white blood cells
+** Haemoglobin is found in the:
+platelets / *red blood cells* / white blood cells
+* The main work of red blood cells is to carry:
+oxygen / carbon dioxide / water
+** The main work of red blood cells is to carry:
+*oxygen* / carbon dioxide / water
+* Blood pressure is the force of blood:
+against artery walls / in the heart / through the lungs
+** Blood pressure is the force of blood:
+*against artery walls* / in the heart / through the lungs
