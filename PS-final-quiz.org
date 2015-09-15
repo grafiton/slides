@@ -1,0 +1,116 @@
+#+Title: Photosynthesis quiz
+#+Author:
+#+Email:
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+#+REVEAL_MARGIN: 0
+#+REVEAL_MIN_SCALE: 1
+#+REVEAL_MAX_SCALE: 1.5
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+* What are the products of photosynthesis?
+#+ATTR_REVEAL: :frag (none grow none)  :frag_idx (1 2 3)
+- Carbon dioxide and water
+- Glucose and oxygen
+- Lactic acid
+
+* What colour is chlorophyll?
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- Black
+- Blue
+- Green
+
+* Where does photosynthesis take place?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- In the chloroplasts
+- In the cell wall
+- In the nucleus
+
+* What are the reactants of photosynthesis?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- Carbon dioxide and water
+- Carbon dioxide and oxygen
+- Glucose and oxygen
+
+* When do plants respire?
+#+ATTR_REVEAL: :frag (none grow none)  :frag_idx (1 2 3)
+- During the day only
+- During the day and night
+- During the night only
+
+* When do plants photosynthesise?
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- During the day and night
+- During the night only
+- During the day only
+
+* What are the cells near the top of leaves called?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- Palisade cells
+- Root hair cells
+- Red blood cells
+
+* What does xylem carry?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- Water
+- Blood
+- Carbohydrates
+
+* What do stomata do?
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- Stop carbon dioxide diffusing into leaves
+- Allow oxygen to diffuse into leaves
+- Allow carbon dioxide to diffuse into leaves
+
+* How are root hair cells adapted?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- Huge surface area
+- Lots of chloroplasts
+- Have no cell wall
+
+* Which gas is needed for photosynthesis?
+#+ATTR_REVEAL: :frag (none grow none)  :frag_idx (1 2 3)
+- oxygen
+- carbon dioxide
+- hydrogen
+
+* What type of energy is needed for photosynthesis to happen?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- light
+- heat
+- sound
+
+* What is produced as a waste by-product from photosynthesis?
+#+ATTR_REVEAL: :frag (grow none none)  :frag_idx (1 2 3)
+- oxygen
+- glucose
+- carbon dioxide
+
+* The green substance needed to absorb energy for photosynthesis is:
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- carotene
+- melanin
+- chlorophyll
+
+* Tomatoes in a greenhouse grow faster if the carbon dioxide concentration is increased. This shows that:
+#+ATTR_REVEAL: :frag (none grow none)  :frag_idx (1 2 3)
+- Temperature must have been a limiting factor.
+- Carbon dioxide concentration must have been a limiting factor.
+- Light intensity must have been a limiting factor.
+
+* Why do plants need nitrate ions?
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- To make fatty acids for proteins.
+- To make proteins that are then used to form fatty acids.
+- To make amino acids that are then used to make proteins.
+
+* A plant with yellow leaves could be growing in soil deficient in:
+#+ATTR_REVEAL: :frag (none none grow)  :frag_idx (1 2 3)
+- Magnesium ions.
+- Nitrate ions.
+- Chlorophyll.
+
+
+# ${n! \over k!(n-k)!} = {n \choose k}$

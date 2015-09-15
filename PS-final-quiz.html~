@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Photosynthesis quiz</title>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Photosynthesis quiz</h1>
+<h2></h2>
+<h2><a href="mailto:"></a></h2>
+<h2></h2>
+</section>
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1">What are the products of photosynthesis?</h2>
+<ul>
+<li>Carbon dioxide and water</li>
+<li data-fragment-index="2" class="fragment grow">Glucose and oxygen</li>
+<li>Lactic acid</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2">What colour is chlorophyll?</h2>
+<ul>
+<li>Black</li>
+<li>Blue</li>
+<li data-fragment-index="3" class="fragment grow">Green</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3">Where does photosynthesis take place?</h2>
+<ul>
+<li data-fragment-index="1" class="fragment grow">In the chloroplasts</li>
+<li>In the cell wall</li>
+<li>In the nucleus</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4">What are the reactants of photosynthesis?</h2>
+<ul>
+<li>Carbon dioxide and water</li>
+<li data-fragment-index="2" class="fragment grow">Carbon dioxide and oxygen</li>
+<li>Glucose and oxygen</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5">When do plants respire?</h2>
+<ul>
+<li>During the day only</li>
+<li data-fragment-index="2" class="fragment grow">During the day and night</li>
+<li>During the night only</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6">When do plants photosynthesise?</h2>
+<ul>
+<li>During the day and night</li>
+<li data-fragment-index="2" class="fragment grow">During the night only</li>
+<li>During the day only</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7">What are the cells near the top of leaves called?</h2>
+<ul>
+<li>Palisade cells</li>
+<li data-fragment-index="2" class="fragment grow">Root hair cells</li>
+<li>Red blood cells</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8">What does xylem carry?</h2>
+<ul>
+<li>Water</li>
+<li data-fragment-index="2" class="fragment grow">Blood</li>
+<li>Carbohydrates</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-9">
+<h2 id="sec-9">What do stomata do?</h2>
+<ul>
+<li>Stop carbon dioxide diffusing into leaves</li>
+<li data-fragment-index="2" class="fragment grow">Allow oxygen to diffuse into leaves</li>
+<li>Allow carbon dioxide to diffuse into leaves</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-10">
+<h2 id="sec-10">How are root hair cells adapted?</h2>
+<ul>
+<li>Huge surface area</li>
+<li data-fragment-index="2" class="fragment grow">Lots of chloroplasts</li>
+<li>Have no cell wall</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-11">
+<h2 id="sec-11">Which gas is needed for photosynthesis?</h2>
+<ul>
+<li>oxygen</li>
+<li data-fragment-index="2" class="fragment grow">carbon dioxide</li>
+<li>hydrogen</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-12">
+<h2 id="sec-12">What type of energy is needed for photosynthesis to happen?</h2>
+<ul>
+<li>light</li>
+<li data-fragment-index="2" class="fragment grow">heat</li>
+<li>sound</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-13">
+<h2 id="sec-13">What is produced as a waste by-product from photosynthesis?</h2>
+<ul>
+<li>oxygen</li>
+<li data-fragment-index="2" class="fragment grow">glucose</li>
+<li>carbon dioxide</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-14">
+<h2 id="sec-14">The green substance needed to absorb energy for photosynthesis is:</h2>
+<ul>
+<li>carotene</li>
+<li data-fragment-index="2" class="fragment grow">melanin</li>
+<li>chlorophyll</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-15">
+<h2 id="sec-15">Tomatoes in a greenhouse grow faster if the carbon dioxide concentration is increased. This shows that:</h2>
+<ul>
+<li>Temperature must have been a limiting factor.</li>
+<li data-fragment-index="2" class="fragment grow">Carbon dioxide concentration must have been a limiting factor.</li>
+<li>Light intensity must have been a limiting factor.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-16">
+<h2 id="sec-16">Why do plants need nitrate ions?</h2>
+<ul>
+<li>To make fatty acids for proteins.</li>
+<li data-fragment-index="2" class="fragment grow">To make proteins that are then used to form fatty acids.</li>
+<li>To make amino acids that are then used to make proteins.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-17">
+<h2 id="sec-17">A plant with yellow leaves could be growing in soil deficient in:</h2>
+<ul>
+<li>Magnesium ions.</li>
+<li data-fragment-index="2" class="fragment grow">Nitrate ions.</li>
+<li>Chlorophyll.</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.00,
+minScale: 1.00,
+maxScale: 1.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
