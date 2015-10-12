@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Atom quiz</title>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Atom quiz</h1>
+<h2></h2>
+<h2><a href="mailto:"></a></h2>
+<h2></h2>
+</section>
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1">The atoms in an element are:</h2>
+<ul>
+<li>All the same type</li>
+<li>Two types joined together</li>
+<li>About a hundred different types</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2">The atoms in an element are:</h2>
+<ul>
+<li><b>All the same type</b></li>
+<li>Two types joined together</li>
+<li>About a hundred different types</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3">An atom consists of:</h2>
+<ul>
+<li>An electron surrounded by a nucleus</li>
+<li>A nucleus containing electrons</li>
+<li>A nucleus surrounded by electrons</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4">An atom consists of:</h2>
+<ul>
+<li>An electron surrounded by a nucleus</li>
+<li>A nucleus containing electrons</li>
+<li><b>A nucleus surrounded by electrons</b></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5">What is the correct chemical symbol for sodium?</h2>
+<ul>
+<li>NA</li>
+<li>Na</li>
+<li>na</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6">What is the correct chemical symbol for sodium?</h2>
+<ul>
+<li>NA</li>
+<li><b>Na</b></li>
+<li>na</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7">What are the groups in the periodic table?</h2>
+<ul>
+<li>A row of similar elements</li>
+<li>A column of similar elements</li>
+<li>The boxes in the table</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8">What are the groups in the periodic table?</h2>
+<ul>
+<li>A row of similar elements</li>
+<li><b>A column of similar elements</b></li>
+<li>The boxes in the table</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-9">
+<h2 id="sec-9">How many protons, neutrons and electrons are there in a <b>$$^{27}_{13}Al$$</b> atom</h2>
+<ul>
+<li>13 protons, 27 neutrons and 14 electrons</li>
+<li>13 protons, 27 neutrons and 13 electrons</li>
+<li>13 protons, 14 neutrons and 13 electrons</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-10">
+<h2 id="sec-10">How many protons, neutrons and electrons are there in a <b>\(^{27}_{13}Al\)</b> atom</h2>
+<ul>
+<li>13 protons, 27 neutrons and 14 electrons</li>
+<li>13 protons, 27 neutrons and 13 electrons</li>
+<li><b>13 protons, 14 neutrons and 13 electrons</b></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-11">
+<h2 id="sec-11">Which of the following does the nucleus contain?</h2>
+<ul>
+<li>protons and electrons</li>
+<li>protons and neutrons</li>
+<li>neutrons and electrons</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-12">
+<h2 id="sec-12">Which of the following does the nucleus contain?</h2>
+<ul>
+<li>protons and electrons</li>
+<li><b>protons and neutrons</b></li>
+<li>neutrons and electrons</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-13">
+<h2 id="sec-13">Which of the following statements is correct?</h2>
+<ul>
+<li>Protons are positively charged and neutrons are negatively charged.</li>
+<li>Protons are negatively charged and electrons are positively charged.</li>
+<li>Protons are positively charged and electrons are negatively charged.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-14">
+<h2 id="sec-14">Which of the following statements is correct?</h2>
+<ul>
+<li>Protons are positively charged and neutrons are negatively charged.</li>
+<li>Protons are negatively charged and electrons are positively charged.</li>
+<li><b>Protons are positively charged and electrons are negatively charged.</b></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-15">
+<h2 id="sec-15">What is the atomic number of an atom?</h2>
+<ul>
+<li>The number of atoms it contains.</li>
+<li>The number of protons it contains.</li>
+<li>The number of neutrons it contains.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-16">
+<h2 id="sec-16">What is the atomic number of an atom?</h2>
+<ul>
+<li>The number of atoms it contains.</li>
+<li><b>The number of protons it contains.</b></li>
+<li>The number of neutrons it contains.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-17">
+<h2 id="sec-17">Which of the following statements is true of an atom?</h2>
+<ul>
+<li>The number of protons is always equal to the number of neutrons.</li>
+<li>The number of protons is always equal to the number of electrons.</li>
+<li>The number of neutrons is always equal to the number of electrons.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-18">
+<h2 id="sec-18">Which of the following statements is true of an atom?</h2>
+<ul>
+<li>The number of protons is always equal to the number of neutrons.</li>
+<li><b>The number of protons is always equal to the number of electrons.</b></li>
+<li>The number of neutrons is always equal to the number of electrons.</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-19">
+<h2 id="sec-19">Which electronic structure is correct for an element with 17 electrons?</h2>
+<ul>
+<li>1,7</li>
+<li>10,7</li>
+<li>2,8,7</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-20">
+<h2 id="sec-20">Which electronic structure is correct for an element with 17 electrons?</h2>
+<ul>
+<li>1,7</li>
+<li>10,7</li>
+<li><b>2,8,7</b></li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.00,
+minScale: 1.00,
+maxScale: 1.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>

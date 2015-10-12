@@ -1,0 +1,131 @@
+#+Title: Atom quiz
+#+Author:
+#+Email:
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+#+REVEAL_MARGIN: 0
+#+REVEAL_MIN_SCALE: 1
+#+REVEAL_MAX_SCALE: 1.5
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+* The atoms in an element are:
+
+- All the same type
+- Two types joined together
+- About a hundred different types
+
+* The atoms in an element are:
+
+- *All the same type*
+- Two types joined together
+- About a hundred different types
+
+* An atom consists of:
+
+- An electron surrounded by a nucleus
+- A nucleus containing electrons
+- A nucleus surrounded by electrons
+
+* An atom consists of:
+
+- An electron surrounded by a nucleus
+- A nucleus containing electrons
+- *A nucleus surrounded by electrons*
+
+* What is the correct chemical symbol for sodium?
+
+- NA
+- Na
+- na
+
+* What is the correct chemical symbol for sodium?
+
+- NA
+- *Na*
+- na
+
+* What are the groups in the periodic table?
+
+- A row of similar elements
+- A column of similar elements
+- The boxes in the table
+
+* What are the groups in the periodic table?
+
+- A row of similar elements
+- *A column of similar elements*
+- The boxes in the table
+
+* How many protons, neutrons and electrons are there in a *$$^{27}_{13}Al$$* atom
+
+- 13 protons, 27 neutrons and 14 electrons
+- 13 protons, 27 neutrons and 13 electrons
+- 13 protons, 14 neutrons and 13 electrons
+
+* How many protons, neutrons and electrons are there in a *$^{27}_{13}Al$* atom
+
+- 13 protons, 27 neutrons and 14 electrons
+- 13 protons, 27 neutrons and 13 electrons
+- *13 protons, 14 neutrons and 13 electrons*
+
+* Which of the following does the nucleus contain?
+
+- protons and electrons
+- protons and neutrons
+- neutrons and electrons
+
+* Which of the following does the nucleus contain?
+
+- protons and electrons
+- *protons and neutrons*
+- neutrons and electrons
+
+* Which of the following statements is correct?
+
+- Protons are positively charged and neutrons are negatively charged.
+- Protons are negatively charged and electrons are positively charged.
+- Protons are positively charged and electrons are negatively charged.
+
+* Which of the following statements is correct?
+
+- Protons are positively charged and neutrons are negatively charged.
+- Protons are negatively charged and electrons are positively charged.
+- *Protons are positively charged and electrons are negatively charged.*
+
+* What is the atomic number of an atom?
+
+- The number of atoms it contains.
+- The number of protons it contains.
+- The number of neutrons it contains.
+
+* What is the atomic number of an atom?
+
+- The number of atoms it contains.
+- *The number of protons it contains.*
+- The number of neutrons it contains.
+
+* Which of the following statements is true of an atom?
+
+- The number of protons is always equal to the number of neutrons.
+- The number of protons is always equal to the number of electrons.
+- The number of neutrons is always equal to the number of electrons.
+
+* Which of the following statements is true of an atom?
+
+- The number of protons is always equal to the number of neutrons.
+- *The number of protons is always equal to the number of electrons.*
+- The number of neutrons is always equal to the number of electrons.
+
+* Which electronic structure is correct for an element with 17 electrons?
+
+- 1,7
+- 10,7
+- 2,8,7
+
+* Which electronic structure is correct for an element with 17 electrons?
+
+- 1,7
+- 10,7
+- *2,8,7*

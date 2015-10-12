@@ -5,6 +5,7 @@
 #+OPTIONS: num:nil
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear 
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
 
 * What is data?
 How would you define data?

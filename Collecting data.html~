@@ -6,8 +6,8 @@
 <title>Collecting and displaying data</title>
 <meta name="author" content="(Book p. 40 (chapter 5))"/>
 
-<link rel="stylesheet" href="./css/reveal.css"/>
-<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+<link rel="stylesheet" href="~http://cdn.jsdelivr.net/reveal.js/2.5.0/css/reveal.css"/>
+<link rel="stylesheet" href="~http://cdn.jsdelivr.net/reveal.js/2.5.0/css/theme/night.css" id="theme"/>
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
@@ -15,7 +15,7 @@
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = './css/print/pdf.css';
+        link.href = '~http://cdn.jsdelivr.net/reveal.js/2.5.0/css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
     }
 </script>
@@ -419,23 +419,19 @@ A better question might be: Do you think that fishing is a cruel pastime?<br  />
 </p>
 </section>
 <section id="slide-sec-12-4">
-<h3 id="sec-12-4">How tall is the biggest tree in the forest?</h3>
+<h3 id="sec-12-4">4. Do not ask sensitive or embarrassing questions.</h3>
 
 <div class="figure">
-<p><img src="./images/Mountain.jpeg" alt="Mountain.jpeg" />
+<p><img src="./images/embarrass.jpg" alt="embarrass.jpg" />
 </p>
 </div>
-<p>
-Qualitative Discrete Continuous** 4. Do not ask sensitive or embarrassing questions.
-<img src="./images/embarrass.jpg" alt="embarrass.jpg" />
-</p>
 </section>
 </section>
 </div>
 </div>
 
-<script src="./lib/js/head.min.js"></script>
-<script src="./js/reveal.js"></script>
+<script src="~http://cdn.jsdelivr.net/reveal.js/2.5.0/lib/js/head.min.js"></script>
+<script src="~http://cdn.jsdelivr.net/reveal.js/2.5.0/js/reveal.js"></script>
 
 <script>
 // Full list of configuration options available here:
@@ -462,12 +458,12 @@ multiplex: {
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
- { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
- { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
- { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
- { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: '~http://cdn.jsdelivr.net/reveal.js/2.5.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]
 });
 </script>
