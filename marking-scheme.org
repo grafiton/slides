@@ -1,4 +1,4 @@
 * Math marking scheme
-*Coming soon*
+[[file:mathMS.pdf]]
 * Science marking scheme
 file:scienceMS.pdf
