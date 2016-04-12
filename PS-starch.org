@@ -1,0 +1,41 @@
+#+Title: Photosynthesis
+#+Author:
+# +Email:
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+#+REVEAL_MARGIN: 0
+#+REVEAL_MIN_SCALE: 1
+#+REVEAL_MAX_SCALE: 1.5
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+* Draw and label the 4 main organs of a plant
+* What two functions does the roots have ?
+** Take water and minerals from the soil/Anchor the plant in soil
+* Explain why roots have roots hair?
+** greatly increase the surface area available for the uptake of nutrients from the soil.
+* -What are the leaves attached to ? -And what does it do ?
+** *Stem*: Stem transports water and food
+* What does the leaves do?
+** Produce food (photosynthesis)
+* What does the soil contain that the plant needs? (name all 4 main things)
+** *Water* and *minerals*: K, N and P
+* What is the formula for photosynthesis?
+** 6 CO2 + 6 H2O	->	 C6 H12O6 + 6 O2  / Carbon dioxide + water ->	  glucose + oxygen
+* What are xylem and phloem vessels ?
+** *Xylem* – vessel that transports minerals and water from the roots to the leaves / *Phloem* – vessel that transports nutrients around the plant.
+* What makes leaves green?
+** Chlorophyll
+* What is the name of the part of the plant’s cell where photosynthesis occur?
+** Chloroplast
+* What type of energy is needed for photosynthesis to occur?
+** Light
+* Where does the plant store its food? And what is it stored as?
+** Fruit/root/seed / Starch
+* How to destarch a plant?
+** Put it in the dark
+* How can you prove plants produce O2? Design an experiment.
+* How can you prove plants need light to photosynthesize? 
+* How can you prove plants need CO2 to photosynthesize? 
+* Can roots photosynthesize? Explain your answers?

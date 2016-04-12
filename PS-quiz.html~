@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Photosynthesis quiz</title>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Photosynthesis quiz</h1>
+<h2></h2>
+<h2><a href="mailto:"></a></h2>
+<h2></h2>
+</section>
+<p>
+What are the products of photosynthesis?
+</p>
+
+<p>
+Carbon dioxide and water
+</p>
+
+<p>
+Glucose and oxygen
+</p>
+
+<p>
+Lactic acid
+2
+</p>
+
+<p>
+What colour is chlorophyll?
+</p>
+
+<p>
+Black
+</p>
+
+<p>
+Blue
+</p>
+
+<p>
+Green
+3
+</p>
+
+<p>
+Where does photosynthesis take place?
+</p>
+
+<p>
+In the chloroplasts
+</p>
+
+<p>
+In the cell wall
+</p>
+
+<p>
+In the nucleus
+4
+</p>
+
+<p>
+What are the reactants of photosynthesis?
+</p>
+
+<p>
+Carbon dioxide and water
+</p>
+
+<p>
+Carbon dioxide and oxygen
+</p>
+
+<p>
+Glucose and oxygen
+5
+</p>
+
+<p>
+When do plants respire?
+</p>
+
+<p>
+During the day only
+</p>
+
+<p>
+During the day and night
+</p>
+
+<p>
+During the night only
+6
+</p>
+
+<p>
+When do plants photosynthesise?
+</p>
+
+<p>
+During the day and night
+</p>
+
+<p>
+During the night only
+</p>
+
+<p>
+During the day only
+7
+</p>
+
+<p>
+What are the cells near the top of leaves called?
+</p>
+
+<p>
+Palisade cells
+</p>
+
+<p>
+Root hair cells
+</p>
+
+<p>
+Red blood cells
+8
+</p>
+
+<p>
+What does xylem carry?
+</p>
+
+<p>
+Water
+</p>
+
+<p>
+Blood
+</p>
+
+<p>
+Carbohydrates
+9
+</p>
+
+<p>
+What do stomata do?
+</p>
+
+<p>
+Stop carbon dioxide diffusing into leaves
+</p>
+
+<p>
+Allow oxygen to diffuse into leaves
+</p>
+
+<p>
+Allow carbon dioxide to diffuse into leaves
+10
+</p>
+
+<p>
+How are root hair cells adapted?
+</p>
+
+<p>
+Huge surface area
+</p>
+
+<p>
+Lots of chloroplasts
+</p>
+
+<p>
+Have no cell wall
+</p>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.00,
+minScale: 1.00,
+maxScale: 1.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>

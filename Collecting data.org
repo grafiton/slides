@@ -1,0 +1,172 @@
+#+Title: Collecting and displaying data
+#+Author: Book p. 40 (chapter 5)
+#+Email: 
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+# +REVEAL_ROOT: ~http://cdn.jsdelivr.net/reveal.js/2.5.0
+
+* What is data?
+How would you define data?
+* Pieces of information are often called *data*
+* Data is a collection (of facts)
+These facts can be values or words/sentences
+Example:
+- Marks of a math test
+- opinions in a survey
+* Primary and secondary data
+There is two main kinds of data
+** Primary data
+Primary data is information you collect *yourself*.
+Give two advantages and two disadvantages of primary data.
+** Secondary data
+Secondary data is information somebody else has collected.
+Examples:
+- Data from internet
+- Data from newspapers
+Give two advantages and two disadvantages of secondary data.
+* Different kinds of data
+There are different kinds of data
+** Qualitative
+Qualitative data are described by words
+** Examples 
+Qualitative data is descriptive information (it describes something)
+examples:
+- it was funny
+- it tastes good
+Qualitative data tends to be subjective
+** Quantitative 
+Quantitative data is data you can actually measure with numbers
+Quantitative data, is numerical information (numbers).
+
+- There are 4 persons in this room
+- The average speed of the car is 65 km/h
+** There is two kinds of quantitative data
+Discrete and Continuous
+** Discrete data
+Discrete data can only take certain values (like whole numbers)
+
+Examples
+- The car has 4 wheels
+- There are 26 students in the classroom
+
+** Continuous data
+Continuous data can take any value (within a range) 
+
+Examples
+- There is 63.8 mL of water left in the glass 
+- The length of the room is 6.80 m
+
+* Examples
+* Here is my dog
+[[./images/doge.jpg]]
+** Give example of qualitative data about doge.
+** Qualitative data
+- Doge has a yellow coat
+- Doge is excited
+- Doge looks funny
+** Give example of discrete quanitative data about doge.
+** Discrete quantitative
+- Doge has two eyes
+- Doge has 4 legs
+- Doge has 2 sisters and 3 brothers
+** Give example of continuous quantitative data about doge.
+** Continuous quantitative data
+- Doge weighs 10 kg
+- Doge is 41 cm tall
+- The distance between doge's ears is about 15 cm
+* Quiz
+** How tall is the biggest tree in the forest?
+[[./images/Forest.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How many bears are there in the forest?
+[[./images/Forest.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** How much did her wedding dress cost?
+[[./images/Kate.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** How long is her left arm?
+[[./images/Kate.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How high is Snowdon?
+[[./images/Mountain.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** What rock is Snowdon made of?
+[[./images/Mountain.jpeg]]
+#+ATTR_REVEAL: :frag (grow fade-out fade-out) :frag_idx (1 2 3)
+- Qualitative
+- Discrete
+- Continuous
+** How many gallons of water are in the lake?
+[[./images/Lake.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out fade-out grow) :frag_idx (3 2 1)
+- Qualitative
+- Discrete
+- Continuous
+** How many snowmen are there?
+[[./images/Snowmen.jpeg]]
+#+ATTR_REVEAL: :frag (fade-out grow fade-out) :frag_idx (2 1 3)
+- Qualitative
+- Discrete
+- Continuous
+** What colours are their eyes?
+[[./images/Snowmen.jpeg]]
+#+ATTR_REVEAL: :frag (grow fade-out fade-out) :frag_idx (1 2 3)
+- Qualitative
+- Discrete
+- Continuous
+
+
+* Survey
+Survey are needed by companies and organisations for a number of reasons.
+Survey should be 
+- meaningful
+- straight to the point
+* Designing a survey
+Imagine that the government wishes to spend more money on schools it may need to raise more money through taxes to achieves this.
+It may want to carry out a survey to fidn out what people think of that idea.
+* In group, find out what is the best question for this survey
+1. Do you think you pay too much tax?
+2. Do you think our schools are good?
+3. Would you be prepared to pay more tax if the money was spent on improving schools?
+4. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+# A. Do you think you pay too much tax?
+# B. Do you think our schools are good?
+# C. Would you be prepared to pay more tax if the money was spent on improving schools?
+# D. Do you think the government spends too much money on offices for politicians and not enough on new schools?
+* Rules to observe to produce meaningfull and precise sets of data
+** 1. Make it clear what is it you are trying to find out
+For example. 'Excuse me. I am conducting a survey to find out if people would like to see new traffic lights at these crossroads. Please would you help me by answering a few simple questions?'
+** 2. Make the questions simple and give choice of answer
+For example, a television company wishes to know how much its coverage of the athletics events in the Beijing Olympics was watched.
+An example of a bad question would be:\\
+Did you watch much of the Olympics on TV?
+A better question might be:\\
+The Beijing Olympics were shown on TV. How many hours did you watch of the athletics events?\\
+*a)* none *b)* 1-5 hours *c)* 6-10 hours *d)* 11-15 hours *e)* 16-20 hours
+** 3. Make your question ask for the other person's opinion. Do not make it clear what your opinion is (this would be called /biased/ question or a /leading/ question).
+A bad example would be: Fishing is a very cruel pastime. Do you agree?\\
+A better question might be: Do you think that fishing is a cruel pastime?\\
+*a)* strongly agre *b)* agree *c)* neutral *d)* disagree *e)* strongly disagree
+** 4. Do not ask sensitive or embarrassing questions.
+[[./images/embarrass.jpg]]
+
+
+
+

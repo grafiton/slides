@@ -1,0 +1,1116 @@
+    1  sudo pacman -S opera
+    2  ls -al
+    3  sudo pacman -S opera
+    4  sudo pacman -Syu
+    5  ping -c  www.google.com
+    6  dhcpcd
+    7  sudo dhcpcd
+    8  ping -c  www.google.com
+    9  ping -c  3 www.google.com
+   10  sudo dhcpcd
+   11  ping -c  3 www.google.com
+   12  ping www.google.com
+   13  ping www.google.fr
+   14  sudo pacman -Syu
+   15  ps aux | grep update
+   16  kill -9 1490
+   17  ps aux | grep manager
+   18  ps aux
+   19  ps aux | grep pacman
+   20  ps aux | grep upd
+   21  sudo pacman -Syu
+   22  ps aux | grep pacman
+   23  ps aux
+   24  sudo pacman -Syu
+   25  sudo pacman -S opera
+   26  sudo pacman -Ss LUKS
+   27  sudo pacman -Ss LUK
+   28  sudo pacman -Ss luks
+   29  sudo pacman -S opera
+   30  alsamixer 
+   31  alsamixer 
+   32  sudo pacman -Syu
+   33  sudo rm /var/lib/pacman/db.lck
+   34  sudo pacman -Syu
+   35  exit
+   36  sudo yaourt -Ss launchy
+   37  exit
+   38  sudo pacman -S opera
+   39  nano /etc/pacman-mirrors.conf 
+   40  pacman-mirrors -g
+   41  sudo pacman-mirrors -g
+   42  sudo pacman -S hplip
+   43  su
+   44  hp-printsettings 
+   45  sudo pacman -
+   46  sudo pacman-mirrors -g
+   47  su
+   48  hp-doctor 
+   49  hp-setup 
+   50  sudo pacman -S foomatic-rip-hplip
+   51  sudo pacman -S foomatic
+   52  cd /usr/lib/cups/filters
+   53  ln -s foomatic-rip foomatic-rip-hplip
+   54  sudo ln -s foomatic-rip foomatic-rip-hplip
+   55  /etc/rc.d/cupsd restart
+   56  sudo /etc/rc.d/cupsd restart
+   57  su
+   58  sudo pacman -S opera
+   59  sudo pacman -S dropbox
+   60  sudo pacman -S keepass
+   61  sudo pacman -S xdottool
+   62  sudo pacman -S xdotool
+   63  xsel
+   64  sudo pacman -S xsel
+   65  sudo pacman -S dislocker
+   66  sudo yaourt -S dislock
+   67  yaourt -S dislocker
+   68  sudo pacman -S emacs
+   69  sudo pacman -S launchy
+   70  exit
+   71  sudo nano  /etc/X11/xorg.conf.d/10-evdev.conf 
+   72  sudo nano  /etc/X11/xorg.conf.d/20-keyboard.conf 
+   73  sudo nano  /usr/share/X11/xkb/rules/xkb.dtd 
+   74  sudo nano  /usr/share/X11/xkb/rules/evdev
+   75  sudo nano  /usr/share/X11/xkb/rules/evdev.lst 
+   76  sudo nano  /etc/X11/xorg.conf.d/90-mhwd.conf 
+   77  ls /usr/share/launchy/skins/
+   78  cp /home/tof/.launchy/Minimal\ Slate/ /usr/share/launchy/skins/
+   79  sudo cp -R /home/tof/.launchy/Minimal\ Slate/ /usr/share/launchy/skins/
+   80  ls /usr/share/launchy/skins/
+   81  ls -al /usr/share/launchy/skins/
+   82  ls -al
+   83  exit
+   84  cd ~/.emacs.d/
+   85  LS
+   86  ls
+   87  cd emacs-color-theme-solarized/
+   88  ls
+   89  sudo pacman -Ss solarized
+   90  sudo pacman -Ss solari
+   91  sudo makepkg 
+   92  ls /usr/share/emacs/site-lisp/
+   93  ls
+   94  ls emacs-color-theme-solarized/
+   95  clear
+   96  git
+   97  git init
+   98  sudo pacman -S git
+   99  git init
+  100  nano ~/.emacs/
+  101  ls ~/.emacs/
+  102  ls ~/.emacs.d/
+  103  ls ~/.emacs.d/auto-save-list/
+  104  ls /usr/share/emacs/24.4/
+  105  ls /usr/share/emacs/24.4/etc/
+  106  ls /usr/share/emacs/24.4/etc/themes/
+  107  ls /home/tof/.emacs.d/
+  108  sudo pacman -Ss emacs
+  109  man git
+  110  git clone /home/tof/.emacs.d https://github.com/sellout/emacs-color-theme-solarized
+  111  git clone https://github.com/sellout/emacs-color-theme-solarized ~/.emacs.d/
+  112  cd ~/.emacs.d/ &&  mkdir emacs-color-theme-solarized
+  113  git clone https://github.com/sellout/emacs-color-theme-solarized ~/.emacs.d/emacs-color-theme-solarized
+  114  ls -al ~/.emacs.d/emacs-color-theme-solarized/
+  115  cd ~/.emacs/
+  116  cd ..
+  117  ls
+  118  nano .emacs
+  119  cd /home/tof/.emacs.d/
+  120  cd emacs-color-theme-solarized/
+  121  makepkg
+  122  ls
+  123  ./makepkg.sh 
+  124  ./configue
+  125  ./configure
+  126  nano ~/.emacs
+  127  cd /home/tof/.emacs.d/
+  128  cp -R /home/tof/.emacs.d/ .
+  129  cp -R /home/tof/.emacs.d/* .
+  130  ls
+  131  cd emacs-color-theme-solarized/
+  132  cp *.* ..
+  133  ls
+  134  cd ..
+  135  ls
+  136  nano ~/.emacs
+  137  cd /home/tof/.emacs.d/
+  138  ls -al
+  139  sudo cp *.* /usr/share/emacs/site-lisp/
+  140  nano /home/tof/.emacs
+  141  cd /home/tof/.emacs.d/emacs-color-theme-solarized/
+  142  ls -al
+  143  nano /home/tof/.emacs
+  144  su
+  145  ls /usr/share/launchy/
+  146  ls /usr/bin/launchy/
+  147  sudo ls /usr/bin/launchy/
+  148  sudo pacman -Ss Virtual
+  149  sudo pacman -S virtualbox
+  150  sudo pacman -S syncdrive
+  151  yaourt -S syncdrive
+  152  sudo pacman -S insync
+  153  yaourt -S insync
+  154  yaourt -S insync-thunar
+  155  sudo pacman -Syu
+  156  pacman-mirrors -g
+  157  sudo pacman-mirrors -g
+  158  sudo pacman -Syu
+  159  sudo pacman -Ss Qbit
+  160  sudo pacman -Ss qbittorrent
+  161  sudo pacman -S qbittorrent
+  162  sudo pacman -S catfish
+  163  dislocker &
+  164  ldisk -l
+  165  sudo ldisk 
+  166  sudo lsdev
+  167  su
+  168  ps aux | grep lock
+  169  kill -9 3391
+  170  ps aux | grep lock
+  171  clear
+  172  sudo pacman -S slock
+  173  su
+  174  alsamixer 
+  175  sudo pacman -S parcellite
+  176  xsel
+  177  xsel -p
+  178  wifi-menu 
+  179  sudo wifi-menu 
+  180  iw dev
+  181  iw devsu
+  182  su
+  183  sudo pacman -S iptables
+  184  sudo ifconfig
+  185  iw dev
+  186  iw
+  187  iw dev
+  188  ifconfig 
+  189  su
+  190  sudo pacman -S octave
+  191  sudo pacman -S jdownloader
+  192  yaourt -S jdownloader
+  193  xdg-user-dirs-update
+  194  nano ~/.config/user-dirs.dirs
+  195  man xdg-user-dirs-update
+  196  man xdg-user-dirs-update ~/.config/user-dirs.dirs
+  197  xdg-user-dirs-update ~/.config/user-dirs.dirs
+  198  nano ~/.config/user-dirs.dirs
+  199  xdg-user-dirs-update
+  200  ls
+  201  cd Templates/
+  202  octave
+  203  octave &
+  204  octave 
+  205  cd Downloads/
+  206  ls
+  207  octave
+  208  yaourt -Ss apop
+  209  sudo pacman -Ss apop
+  210  clear
+  211  sudo pacman -S wine
+  212  clear
+  213  ls
+  214  cd Downloads/
+  215  ld
+  216  ls
+  217  ls *.jar
+  218  java ifs.jar 
+  219  MAN JAVA
+  220  man java
+  221  java -jar ifs.jar 
+  222  octave
+  223  sudo pacman -S geogebra
+  224  ls
+  225  mkdir script
+  226  cd script/
+  227  ls
+  228  git clone /https://github.com/oblique/create_ap .
+  229  git clone /https://github.com/oblique/create_ap 
+  230  git clone http://github.com/oblique/create_ap 
+  231  ls
+  232  cd create_ap/
+  233  ls
+  234  yaourt -S create_ap
+  235  iw dev
+  236  ifconfig
+  237  make install
+  238  sudo make install
+  239  su
+  240  ifconfig 
+  241  yaourt -S chrome
+  242  yaourt -Ss chrome
+  243  yaourt -Ss chromium
+  244  yaourt -S chromium
+  245  sudo pacman -R xflock4
+  246  sudo pacman -R xflock4 
+  247  yaourt -S create_ap
+  248  create_ap enp3s0 wlp0s26f7u3 LeWiFi allahuakbar
+  249   wlp0s26f7u3 LeWiFi allahuakbar
+  250  create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar
+  251  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar
+  252  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar &
+  253  iw dev
+  254  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar &
+  255  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar
+  256  yaourt -S gpodder
+  257  yaourt -S gpodder3
+  258  alsamixer 
+  259  ps aux | grep terminal
+  260  kill -9 950
+  261  alsamixer 
+  262  sudo pacman -Syu
+  263  pulseaudio-ctl 
+  264  lsmod |grep snd
+  265  sudo pacman -R pavucontrol pulseaudio pulseaudio-alsa
+  266  sudo pacman -R pulseaudio pulseaudio-alsa
+  267  sudo pacman -R pulseaudio
+  268  sudo pacman -Rns manjaro-pulse
+  269  sudo pacman -Rns pulseaudio-ctl
+  270  sudo pacman -R xfce4-mixer xfce4-volumed
+  271  sudo pacman -R xfce4-mixer 
+  272  sudo pacman -S xfce4-mixer 
+  273  sudo pacman -S manjaro-pulse
+  274  sudo pacman -S pulseaudio-ctl
+  275  alsamixer 
+  276  pulseaudio-ctl 
+  277  sudo pacman -Rs ala
+  278  sudo pacman -Rs alsa
+  279  sudo pacman -Ss alsa
+  280  sudo pacman -R alsa
+  281  sudo pacman -S alsa
+  282  sudo pacman -S alsamixer
+  283  su
+  284  ldisk
+  285  su
+  286  man dislocker-fuse 
+  287  lsusb
+  288  ls /dev/sdb1
+  289  dislocker /dev/sdb1
+  290  dislocker /dev/sdb
+  291  man dislocker
+  292  dislocker-fuse /dev/sdb1
+  293  dislocker-metadata /dev/sdb1
+  294  dislocker-metadata -V /dev/sdb1
+  295  dislocker-metadata -V /dev/sdb
+  296  man dislocker-fuse
+  297  dislocker -r -V /dev/sdb -pkzef14net! --/media/bash
+  298  dislocker -r -V /dev/sdb1 -pkzef14net! --/media/bash
+  299  clear
+  300  dislocker -r -V /dev/sdb1 -pkzef14net! --/media/bash
+  301  dislocker -r -V /dev/sdb1 -pkzef14net! -- /media/bash
+  302  sudo dislocker -r -V /dev/sdb1 -pkzef14net! -- /media/bash
+  303  sudo dislocker -r -V /dev/sdb1 -ukzef14net! -- /media/bash
+  304  sudo dislocker -r -V /dev/sdb1 -ukzef14net! -- /media/BWD
+  305  ls /media/BWD 
+  306  sudo ls /media/BWD 
+  307  sudo ls -al /media/BWD 
+  308  umount /media/BWD
+  309  sudo umount /media/BWD
+  310  alsamixer 
+  311  sudo pacman -R pavucontrol pulseaudio pulseaudio-alsa
+  312  sudo pacman -Rns manjaro-pulse
+  313  sudo pacman -Rns pulseaudio-ctl
+  314  sudo pacman -S xfce4-mixer xfce4-volumed
+  315  mkdir /media/bwl
+  316  sudo mkdir /media/bwl
+  317  sudo pacman -Ss LaTeX
+  318  man texi2pdf
+  319  LS
+  320  alsamixer 
+  321  ping \\192.168.0.9
+  322  ping \192.168.0.9
+  323  ping 192.168.0.9
+  324  net use
+  325  alsamixer 
+  326  dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD
+  327  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD
+  328  ls /media/BWD 
+  329  sudo ls /media/BWD 
+  330  su
+  331  kqwef36
+  332  su
+  333  sudo /etc/rc.d/cupsd restart
+  334  lpstat -s
+  335  lpstat -p HP_LaserJet_P2035n_2
+  336  lpstat -p 
+  337  history 
+  338  lpstat -p 
+  339  history | grep hp*
+  340  history | grep hp
+  341  hp-setup 
+  342  rsync -uv /home/tof/grafiton76\@gmail.com/Grades smb://192.168.0.200/emg/TEACHERS/Lower Secondary Maths and Science/Christophe/
+  343  rsync -uv /home/tof/grafiton76\@gmail.com/Grades smb://192.168.0.200/emg/TEACHERS/Lower\ Secondary\ Maths\ and Science/Christophe/
+  344  rsync -uv /home/tof/grafiton76\@gmail.com/Grades smb://192.168.0.200/emg/TEACHERS/Lower%20Secondary%20Maths%20and%20Science/Christophe
+  345  ls smb://192.168.0.200/emg/TEACHERS/Lower%20Secondary%20Maths%20and%20Science/Christophe
+  346  ls smb://192.168.0.200
+  347  ls 192.168.0.200
+  348  ls \\192.168.0.200
+  349  ls smb://192.168.0.200/emg/TEACHERS/Lower%20Secondary%20Maths%20and%20Science/Christophe/
+  350  ls smb://192.168.0.200/emg/TEACHERS/
+  351  ls //192.168.0.200
+  352  ls //192.168.0.200/
+  353  sudo ls //192.168.0.200/
+  354  ls ~/.xprofile 
+  355  nano ls ~/.xprofile 
+  356  nano ~/.xprofile 
+  357  sudo nano /etc/lightdm/lightdm.conf 
+  358  yaourt -Ss njam
+  359  yaourt -S njam
+  360  njam 
+  361  systemctl status cups
+  362  history
+  363  sudo pacman -Syu
+  364  smbclient //192.168.0.200/TEACHER -u christophe.g
+  365  smbclient //192.168.0.200/emg/TEACHER -u christophe.g
+  366  smbclient //192.168.0.200/emg/TEACHER
+  367  smbclient //192.168.0.200/emg/TEACHER/
+  368  smbclient //192.168.0.200/emg/TEACHER/ -u 
+  369  smbclient //192.168.0.200/emg/TEACHERS/
+  370  smbclient //192.168.0.200/emg/TEACHERS/ -u christophe.g
+  371  smbclient //192.168.0.200/emg/TEACHERS/
+  372  smbclient //192.168.0.200/emg/TEACHERS
+  373  smbclient -L //192.168.0.200/emg/TEACHERS
+  374  smbclient -L //192.168.0.200/emg/
+  375  smbclient -L //192.168.0.200/emg/ -U%
+  376  smbclient -L //192.168.0.200/emg/TEACHERS -U%
+  377  mkdir /mnt/teachers
+  378  sudo mkdir /mnt/teachers
+  379  mount -t cifs //192.168.0.200/emg/TEACHERS /mnt/teachers -o user=christophe.g,password=123,workgroup=EMG,ip=192.168.0.200
+  380  sudo mount -t cifs //192.168.0.200/emg/TEACHERS /mnt/teachers -o user=christophe.g,password=123,workgroup=EMG,ip=192.168.0.200
+  381  sudo mount -t cifs //SERVER/emg/TEACHERS /mnt/teachers -o user=christophe.g,password=123,workgroup=EMG,ip=192.168.0.200
+  382  sudo mount -t cifs //192.168.0.200/emg/TEACHERS /mnt/teachers -o user=christophe.g
+  383  sudo mount -t cifs //192.168.0.200/emg/TEACHERS /mnt/teachers -o user=guest
+  384  sudo mount -t cifs //192.168.0.200/emg/TEACHERS /mnt/teachers
+  385  sudo mount -t cifs //192.168.0.200/emg /mnt/teachers
+  386  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teacher -o user=guest
+  387  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teachers -o user=guest
+  388  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teacher -o user=christophe
+  389  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teachers -o user=christophe
+  390  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teachers -o user=tof
+  391  pacman -Ss x-screen
+  392  pacman -Ss screen
+  393  pacman -Ss njam
+  394  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teachers -o user=tof
+  395  sudo mount -t cifs //192.168.0.200/emg/TEACHERS/ /mnt/teachers -o user=christophe.g
+  396  ls /mnt/teachers/
+  397  clear
+  398  sudo nano /etc/fstab 
+  399  sudo rsync -uv /home/tof/grafiton76\@gmail.com/Grades /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  400  rsync -uv /home/tof/grafiton76\@gmail.com/Grades /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  401  chown -R tof:tof /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  402  chown -R tof /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  403  sudo chown -R tof /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  404  sudo rsync -uv /home/tof/grafiton76\@gmail.com/Grades /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  405  ls -al /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  406  sudo chown -R tof:tof /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  407  sudo chown -R tof:root /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  408  ls -al /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  409  sudo chown -R tof /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  410  ls -al /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/
+  411  sudo mkdir /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades
+  412  su
+  413  sudo rsync -uv /home/tof/grafiton76\@gmail.com/Grades /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  414  sudo rsync -uv /home/tof/grafiton76\@gmail.com/Grades/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  415  sudo rsync -uvz /home/tof/grafiton76\@gmail.com/Grades/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  416  sudo rsync -uvz /home/tof/grafiton76\@gmail.com/Grades/Grade\ 6/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/Grade\ 6/
+  417  sudo rsync -auvz /home/tof/grafiton76\@gmail.com/Grades/Grade\ 6/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/Grade\ 6/
+  418  sudo rsync -auvz /home/tof/grafiton76\@gmail.com/Grades/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  419  Qosmic
+  420  sudo pacman -Ss Qosmic
+  421  sudo pacman -Ss qosmic
+  422  yaourt -Ss qosmic
+  423  yaourt -S qosmic
+  424  cd Downloads/
+  425  ls
+  426  tar -xvf qosmic.tar.gz 
+  427  ls
+  428  cd qosmic
+  429  ls
+  430  makepkg -s
+  431  ls
+  432  sudo pacman -Ss flam3
+  433  flame3
+  434  flam3-genome 
+  435  flam3-render 
+  436  sudo pacman -Ss xscreen
+  437  sudo pacman -S xscreensaver
+  438  xscreensaver-demo 
+  439  xscreensaver
+  440  yaourt qosmic
+  441  history
+  442  ls -al 
+  443  sudo pacman -S calligra
+  444  yaourt fr0st
+  445  whereis qbittorrent
+  446  cd Workplace/java/
+  447  ls
+  448  java Fern.java 
+  449  MAN JAVA
+  450  man java
+  451  fr0st 
+  452  ps aux | grep fr0st
+  453  ls /mnt/teachers/
+  454  cd Downloads/
+  455  ls *.java
+  456  mkdir ~/Workplace
+  457  cd ../Workplace/
+  458  mkdir java
+  459  ls 
+  460  mv ~/Downloads/*.java ~/Workplace/java/
+  461  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar &
+  462  iw dev
+  463  sudo ifconfig
+  464  sudo create_ap wlp0s26f7u3 enp3s0 LeWiFi allahuakbar
+  465  history
+  466  cd Desktop/
+  467  ls
+  468  chmod +x WiFi.sh 
+  469  ls
+  470  ./WiFi.sh 
+  471  sudo pacman -S scribus
+  472  man slock 
+  473  man slock
+  474  history 
+  475  sudo pacman-mirrors -g
+  476  sudo pacman -Ss TeXlive
+  477  sudo pacman -S texlive
+  478  sudo pacman -S texlive-bin
+  479  cd /home/tof/grafiton76\@gmail.com/
+  480  ls 
+  481  ls resources/
+  482  ls 
+  483  cd resources/LateX\ playing\ cards/
+  484  ls
+  485  latex cards\ v2\ no\ answers.tex
+  486  sudo texconfig rehash
+  487  sudo texconfig
+  488  sudo pacman -S texlive-most
+  489  latex cards\ v2\ no\ answers.tex
+  490  nano script.bat 
+  491  man xelatex
+  492  xelatex --interactionmode=nonstop cards\ v2\ no\ answers.tex
+  493  sudo pacman -S texlive-lang
+  494  cd ~
+  495  ls
+  496  cd script/
+  497  nano pst-thunder
+  498  chmod +x pst-thunder 
+  499  sudo -i pst-thunder
+  500  sudo -i
+  501  xelatex --help
+  502  cp script.bat script.sh
+  503  ls -al script.sh 
+  504  chmod +x script.sh
+  505  ./script.sh 
+  506  ls
+  507  script.sh
+  508  sh script.sh 
+  509  nano script.sh
+  510  sh script.sh 
+  511  sudo pacman -S libdbx
+  512  sudo pacman -Ss libdbx
+  513  yaourt libdbx
+  514  mbox
+  515  history 
+  516  sudo pacman -Ss thunderbird
+  517  alsamixer 
+  518  sudo pacman -Ss evolution
+  519  sudo pacman -S evolution
+  520  cp /run/media/tof/Data/christophe.g/Desktop/archive.pst /home/tof/mail/
+  521  sudo cp /run/media/tof/Data/christophe.g/Desktop/archive.pst /home/tof/mail/
+  522  sudo chown tof:tof /home/tof/mail/archive.pst
+  523  sudo chown tof /home/tof/mail/archive.pst
+  524  man users
+  525  users
+  526  groups
+  527  sudo chown tof:users /home/tof/mail/archive.pst
+  528  ls -al /home/tof/mail/archive.pst
+  529  sudo pacman -Ss thunderbird
+  530  sudo pacman -Ss youtube-dl
+  531  sudo pacman -S youtube-dl
+  532  man youtube-dl
+  533  youtube-dl https://www.youtube.com/watch?v=56RLUvji-xs
+  534  youtube-dl https://www.youtube.com/watch?v=mW01pBDdjqw
+  535  sudo chown tof:users /mnt/teachers/
+  536  sudo cp /home/tof/Documents/KD\ 7.1\ * /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/10.\ Handover/Handover\ 2015/KD/
+  537  sudo cp /home/tof/Documents/NGT\ 7.1\ * /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/10.\ Handover/Handover\ 2015/NGT/
+  538  sudo cp /home/tof/Documents/LQD\ 8.1\ * /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/10.\ Handover/Handover\ 2015/LQD/
+  539  sudo chown tof:users /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/10.\ Handover/Handover\ 2015/LQD/LQD\ 8.1\ M.docx 
+  540  su
+  541  sudo chmod 777 /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/10.\ Handover/Handover\ 2015/LQD/LQD\ 8.1\ M.docx 
+  542  sudo pacman -R parcellite
+  543  youtube-dl https://www.youtube.com/watch?v=8tqh7wn_RIw
+  544  cd Desktop/
+  545  ls
+  546  cd LateX\ playing\ cards
+  547  ls
+  548  sh script.sh 
+  549  history 
+  550  su
+  551  history 
+  552  sudo rsync -auvz /home/tof/grafiton76\@gmail.com/Grades/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  553  youtube-dl https://www.youtube.com/watch?v=C9NlDtFNVc0
+  554  youtube-dl https://www.youtube.com/watch?v=Qt2mbGP6vFI
+  555  hsitory | grep dislocker
+  556  history | grep dislocker
+  557  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD
+  558  ls -al /media/BWD 
+  559  sudo ls -al /media/BWD 
+  560  history
+  561  ls /media/BWD 
+  562  ls -al /media/BWD 
+  563  sudo ls -al /media/BWD 
+  564  dislocker-metadata -V /dev/sdb
+  565  sudo dislocker-metadata -V /dev/sdb
+  566  ls /media/
+  567  ls /media/bwl/
+  568  ls -al /media/bwl/
+  569  history |grep bwl
+  570  history |grep dislocker
+  571  dislocker-metadata -V /dev/sdb1
+  572  sudo dislocker-metadata -V /dev/sdb1
+  573  sudo mount -o loop,ro /media/BWD/dislocker-file /media/bwl
+  574  cd Downloads/
+  575  ls -al
+  576  java -jar MandelbrotFractal.jar 
+  577  sudo pacman -Ss BB
+  578  youtube-dl https://www.youtube.com/watch?v=CXcV3mnV6IQ
+  579  yaourt allegro
+  580  aalib-config 
+  581  sudo pacman -Ss bb
+  582  cd Downloads/
+  583  ls
+  584  tar -xvf bb.tar.gz 
+  585  tar xvf bb.tar.gz 
+  586  cd bb
+  587  ls
+  588  makepkg
+  589  sudo pacman -A bb-1.3rc1-13-i686.pkg.tar.xz 
+  590  sudo cp /home/tof/Downloads/Game.of.Thrones.S05E07.720p.HDTV.x264-0SEC/game.of.thrones.s05e07.720p.hdtv.x264-0sec.mkv /run/media/tof/stock/
+  591  xscreensaver
+  592  yaourt -S bb
+  593  bb
+  594  yaourt -S Kdirstat
+  595  yaourt -S kdirstat
+  596  rchey3
+  597  archey3
+  598  sudo pacman -S archey3
+  599  archey3 
+  600  alsamixer 
+  601  nano /etc/profile.d/minitube.sh 
+  602  sudo pacman -Ss youtube 
+  603  sudo pacman -S minitube
+  604  minitube
+  605  sudo pacman -Ss youtube 
+  606  sudo pacman -S smtube
+  607  smtube
+  608  history
+  609  sudo sh ap_wifi.sh 
+  610  sudo nano /etc/profile.d/minitube.sh 
+  611  sudo pacman -S auctex
+  612  sudo pacman -Ss org
+  613  sudo pacman -Ss emacs
+  614  clear
+  615  sudo pacman -Ss emacs
+  616  yaourt org-mode
+  617  history | grep rsync
+  618  nano ~/sync-grades
+  619  sudo sync-grades 
+  620  sudo sh sync-grades
+  621  nano ~/sync-grades
+  622  sudo chown tof:tof /home/tof/mail/archive.pst
+  623  history | grep rsync
+  624  sudo rsync -auvz /home/tof/grafiton76\@gmail.com/Grades/ /mnt/teachers/Lower\ Secondary\ Maths\ and\ Science/Christophe/Grades/
+  625  latex todo.tex 
+  626  man latex
+  627  pdflatex todo.tex 
+  628  alsamixer 
+  629  history
+  630  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD & dislocker-metadata -V /dev/sdb
+  631  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD && dislocker-metadata -V /dev/sdb
+  632  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD && sudo dislocker-metadata -V /dev/sdb
+  633  history
+  634  nano ~/dlocker.sh
+  635  sudo dislocker-metadata -V /dev/sdb
+  636  ls /media/BWD 
+  637  sudo ls /media/BWD 
+  638  sudo dislocker-metadata -V /dev/sdb
+  639  ls /media/bwl/
+  640  sudo ls /media/bwl/
+  641  sudo umount /media/bwl/
+  642  history grep | dislocker
+  643  history | grep dislocker
+  644  sudo dislocker-metadata -V /dev/sdb1
+  645  sudo ls -al /media/bwl/
+  646  sudo dislocker-metadata -V /dev/sdb1
+  647  sudo dislocker-metadata -V /dev/sdb
+  648  umount /media/BWD 
+  649  sudo umount /media/BWD 
+  650  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD
+  651  sudo dislocker-metadata -V /dev/sdb
+  652  history 
+  653  sudo sh ap_wifi.sh 
+  654  man guayadeque
+  655  ls /usr/bin/
+  656  cd Downloads/
+  657  ls
+  658  ls guaya*
+  659  alsamixer 
+  660  cp /tmp/guayadeque_* /usr/bin/
+  661  sudo cp /tmp/guayadeque_* /usr/bin/
+  662  cd /usr/bin/
+  663  ls
+  664  ls -al 
+  665  ls -al g*
+  666  sudo chmod u+rwx guayadeque_*
+  667  ls -al g*
+  668  sudo chmod 777 guayadeque_*
+  669  sudo umount /media/BWD 
+  670  cd /home/tof/
+  671  sudo sh dlocker.sh 
+  672  sudo chmod 777 /media/bwl/
+  673  nano dlocker.sh 
+  674  sudo umount /media/bwl/
+  675  sudo umount /media/BWD 
+  676  sudo sh dlocker.sh 
+  677  nano dlocker.sh 
+  678  sudo sudo mount -o loop,rw /media/BWD/dislocker-file
+  679  sudo sudo mount -o loop,rw /media/BWD/dislocker-file /media/bwl
+  680  nano /etc/fstab 
+  681  cd /mnt/teachers/
+  682  ls
+  683  Lower\ Seco
+  684  Lower\ Secondary\ Maths\ and\ Science/
+  685  ls
+  686  cd Lower\ Secondary\ Maths\ and\ Science/
+  687  ls
+  688  cd Christophe/
+  689  ls
+  690  rm -rvf Grade\ 6/
+  691  sudo rm -rvf Grade\ 6/
+  692  alsamixer 
+  693  yaourt node
+  694  yaourt node.js
+  695  cd Down
+  696  ]
+  697  cd /home/tof/Downloads/
+  698  ls
+  699  tar xvf node-v0.12.4.tar.gz 
+  700  cd node-v0.12.4
+  701  makepkg
+  702  sudo pacman -S node
+  703  sudo pacman -S nodejs
+  704  sudo pacman -Rns nodejs
+  705  npm install -g grunt-cli
+  706  sudo pacman -S npm
+  707  npm install -g grunt-cli
+  708  sudo npm install -g grunt-cli
+  709  sudo npm install -g node.js
+  710  cd ~/Workplace/
+  711  git clone https://github.com/hakimel/reveal.js.git
+  712  cd reveal.js/
+  713  ls
+  714  npm install
+  715  grunt serve
+  716  cd ~/
+  717  ls .emacs.d/
+  718  ls
+  719  cd .emacs.d/
+  720  cd solarized-
+  721  ls
+  722  cd emacs-color-theme-solarized/
+  723  ls
+  724  ls /usr/bin/emacs-24.5 
+  725  ls /usr/lib/emacs/
+  726  ls /usr/lib/emacs/24.5/
+  727  ls /usr/lib/emacs/24.5/i686-pc-linux-gnu/
+  728  ls ~/.emacs.d/
+  729  nano ~/.emacs
+  730  exit
+  731  nano .emacs
+  732  cd Workplace/
+  733  ls
+  734  git clone https://github.com/yjwen/org-reveal.git
+  735  locate org-mode
+  736  ls /home/tof/org-mode\ test
+  737  ls
+  738  whereis org-mode
+  739  whereis orgmode
+  740  ls /usr/share/emacs/etc/org/
+  741  ls /usr/share/emacs/etc/org/schema/
+  742  ls /usr/share/emacs/etc/org/styles/
+  743  nano .em
+  744  nano ~/.emacs
+  745  ~/path/to/orgdir/lisp
+  746  cd ~/path/to/orgdir/lisp
+  747  cd '~/path/to/orgdir/lisp'
+  748  whereis org-mode*
+  749  whereis *org-mode*
+  750  whereis *orgmode*
+  751  locate  *orgmode*
+  752  locate  *org-mode*
+  753  ls /usr/share/info/orgmode.gz 
+  754  ls ~/.emacs.d/
+  755  ls ~/.emacs.d/elpa/
+  756  ls ~/.emacs.d/elpa/archives/
+  757  ls ~/.emacs.d/elpa/archives/gnu/
+  758  ls ~/.emacs.d/
+  759  ls ~/.emacs.d/elpa/
+  760  ls ~/.emacs.d/elpa/gnupg/
+  761  ls ~/.emacs.d/
+  762  ls ~/.emacs.d/auto-save-list/
+  763  ls
+  764  cd reveal.js/
+  765  ls
+  766  cd plugin/
+  767  cd ..
+  768  ls plugin/
+  769  locate ox-reveal.el
+  770  whereis ox-reveal.el
+  771  whereis ox-reveal
+  772  cd ..
+  773  ls
+  774  cd org-reveal/
+  775  ls
+  776  cp ox-reveal.el /usr/share/emacs/site-lisp/org/
+  777  sudo cp ox-reveal.el /usr/share/emacs/site-lisp/org/
+  778  chmod 777 /usr/share/emacs/site-lisp/org/ox-reveal.el 
+  779  nano~/.em
+  780  nano ~/.emacs
+  781  mkdir ~/git
+  782  cd git
+  783  ls
+  784  cd ..
+  785  mkdir git
+  786  cd git/
+  787  ls
+  788  history | grep org
+  789  history | grep git
+  790  locate org-mode
+  791  nano ~/.emacs
+  792  yaourt org-mode
+  793  sudo history
+  794  history
+  795  sudo dislocker -v -V /dev/sdb1 -ukzef14net! -- /media/BWD ; sudo mount -o loop,rw /media/BWD/dislocker-file /media/bwl
+  796  nano dlocker.sh 
+  797  sudo dlocker.sh 
+  798  sudo sh dlocker.sh 
+  799  emacsclient 
+  800  xscreensaver
+  801  git clone https://github.com/hakimel/reveal.js/releases
+  802  cp ~/Downloads/reveal.js-master.zip ~/
+  803  tar zxf reveal.js-master.zip 
+  804  gunzip reveal.js-master.zip 
+  805  gunzip -u reveal.js-master.zip 
+  806  gzip --help
+  807  gzip -d reveal.js-master.zip 
+  808  cd reveal.js-master
+  809  ls
+  810  locate org-reveal-root
+  811  ls
+  812  cd ..
+  813  ls
+  814  nano .emacs
+  815  yaourt melpa
+  816  yaourt elpa
+  817  nano .emacs
+  818  sudo pacman -S reveal
+  819  yaourt reveal
+  820  yaourt org-mode
+  821  cd git/
+  822  s
+  823  ls
+  824  git clone https://github.com/yjwen/org-reveal.git
+  825  cd org-reveal/
+  826  ls
+  827  ls /usr/share/emacs/etc/org/
+  828  ls /usr/share/emacs/etc/org/sc
+  829  ls /usr/share/emacs/etc/org/schema/
+  830  ls /usr/share/emacs/etc/org/styles/
+  831  locate org-mode
+  832  locate ox-reveal.el 
+  833  cd ~
+  834  sudo sh dlocker.sh 
+  835  nano reveal.org 
+  836  nano .emacs
+  837  ls ~/.emacs.d/elpa/
+  838  nano .emacs
+  839  ls 
+  840  git clone https://github.com/yjwen/org-reveal
+  841  cd org-reveal/
+  842  ls
+  843  emacs Readme.org 
+  844  emacs Readme.org &
+  845  sudo pacman -Ss reveal
+  846  yaourt reveal
+  847  cd ..
+  848  ls
+  849  git clone https://github.com/hakimel/reveal.js/
+  850  ls git/
+  851  ls 
+  852  cd reveal.js/
+  853  ls
+  854  npm install
+  855  sudo sh ap_wifi.sh  &
+  856  sudo sh ap_wifi.sh 
+  857  ls /media/bwl/
+  858  sudo ls /media/bwl/
+  859  sudo ls -al /media/bwl/
+  860  history > history.txt
+  861  nano history.
+  862  nano history.txt 
+  863  cd Workplace/java/qmatom/
+  864  ls
+  865  java -jar qmatom.jar 
+  866  yaourt gdmap
+  867  sudo pacman -S gmap
+  868  sudo pacman -S gdmap
+  869  sudo pacman -Syy
+  870  sudo pacman -Syu
+  871  sudo chown tof:users /run/media/tof/4757682e-fa10-4a06-bf66-65db4a36e0a7/
+  872  sudo npm install node-sass
+  873  cd reveal.js/
+  874  npm install
+  875  export PYTHON=python2.7
+  876  npm install
+  877  sudo npm install
+  878  sudo export PYTHON=python2.7
+  879  export PYTHON=python2.7
+  880  sudo npm install
+  881  cd ..
+  882  ls
+  883  rm -Rvf reveal.js/
+  884  git clone https://github.com/hakimel/reveal.js.git
+  885  cd reveal.
+  886  cd reveal.js/
+  887  npm install
+  888  nano /home/tof/reveal.js/npm-debug.log
+  889  gedit /home/tof/reveal.js/npm-debug.log &
+  890  mousepad /home/tof/reveal.js/npm-debug.log&
+  891  sudo pacman -S nodejs
+  892  sudo pacman -Ss sass
+  893  npm install -g node-gyp
+  894  sudo npm install -g node-gyp
+  895  npm install
+  896  sudo pacman -R nodejs
+  897  yaourt nodejs
+  898  sudo pacman -Rns nodejs
+  899  sudo pacman -R nodejs
+  900  sudo pacman -Ss nodejs
+  901  sudo pacman -R nodejs
+  902  sudo pacman -Q nodejs
+  903  sudo pacman -Qns nodejs
+  904  sudo pacman -R node
+  905  sudo pacman -R nodejs
+  906  sudo pacman -Syu
+  907  sudo pacman -R nodejs
+  908  sudo pacman -Ss package-query
+  909  sudo pacman -Rdd package-query
+  910  sudo pacman -Syu
+  911  sudo mv /etc/pacman.conf.pacnew /etc/pacman.conf
+  912  sudo pacman-key --init
+  913  sudo pacman-key -Syu
+  914  sudo pacman -Syu
+  915  sudo pacman -R nodejs
+  916  man yaourt
+  917  yaourt -R nodejs
+  918  yaourt nodejs
+  919  sudo pacman -S package-query
+  920  yaourt -R nodejs
+  921  yaourt nodejs
+  922  yaourt -R nodejs
+  923  sudo pacman -S nodejs
+  924  sudo pacman -Rns nodejs
+  925  sudo pacman -R nodejs
+  926  sudo pacman -S nodejs
+  927  npm install
+  928  
+  929  sudo pacman -R nodejs
+  930  sudo mv /etc/pacman.conf ~/pacman.conf.backup
+  931  sudo pacman -Scc
+  932  sudo mv ~/pacman.conf.backup /etc/pacman.conf
+  933  sudo pacman -Scc
+  934  sudo pacman -Syu
+  935  sudo pacman -Ss nodejs
+  936  sudo pacman -Rns nodejs
+  937  npm install
+  938  npm install node-sass
+  939  npm install
+  940  cd reveal.js/
+  941  npm install
+  942  npm cache clean 
+  943  npm install -g npm
+  944  sudo pacman -R nodejs
+  945  yaourt -R nodejs
+  946  sudo pacman -Rd nodejs
+  947  man pacman 
+  948  sudo pacman -Rsc nodejs
+  949  sudo pacman -Syy
+  950  sudo pacman -Syu
+  951  sudo pacman -S nodejs
+  952  cd reveal.js/
+  953  npm install
+  954  sudo pacman -S npm
+  955  sudo pacman -S package-manager
+  956  sudo pacman -S package 
+  957  npm install
+  958  sudo fixmynode
+  959  npm install reveal.js
+  960  npm install
+  961  ls ls -al /home/tof/reveal.js/
+  962  ls
+  963  cd ..
+  964  ls
+  965  rm -Rvf reveal.js/
+  966  npm -R reveal.js/
+  967  npm -R reveal.js
+  968  git clone https://github.com/hakimel/reveal.js.git
+  969  ls 
+  970  rm -Rvf reveal.js/
+  971  sudo rm -Rvf reveal.js/
+  972  git clone https://github.com/hakimel/reveal.js.git
+  973  cd reveal.js/
+  974  npm install
+  975  which node
+  976  cd ..
+  977  ls
+  978  cd git/
+  979  ls
+  980  yaourt sass
+  981  yaourt node sass
+  982  yaourt node-sass
+  983  yaourt node
+  984  git clone https://github.com/sass/node-sass/releases/tag/v3.1.2
+  985  git clone https://github.com/sass/node-sass/releases/tag/v3.1.2.git
+  986  https://github.com/sass/node-sass
+  987  git clone https://github.com/sass/node-sass
+  988  npm install node-sass@2
+  989  npm install node-sass
+  990  cd ../reveal.js/
+  991  npm install
+  992  youtube-dl -f http://www.dailymotion.com/video/x81il9_val-est-venere_news
+  993  youtube-dl --help
+  994  youtube-dl http://www.dailymotion.com/video/x81il9_val-est-venere_news
+  995  npm install
+  996  ls
+  997  cd node_modules/
+  998  ls
+  999  cd ..
+ 1000  npm install
+ 1001  history |grep export
+ 1002  export PYTHON=python2.7
+ 1003  npm install
+ 1004  sudo pacman -S android-tools.
+ 1005  sudo pacman -S android-tools
+ 1006  lsusb
+ 1007  adb devices
+ 1008  lsusb
+ 1009  lsnlk
+ 1010  lsblk
+ 1011  sudo pacman -S android-udev
+ 1012  LSUSB 
+ 1013  lsusb | grep Galaxy
+ 1014  sudo nano /etc/udev/rules.d/51-android.rules
+ 1015  udevadm control --reload-rules
+ 1016  sudo udevadm control --reload-rules
+ 1017  cat ~/.android/adb_usb.ini 
+ 1018  sudo adb devices
+ 1019  sudo udevadm control --reload-rules
+ 1020  adb devices
+ 1021  nano /etc/udev/rules.d/51-android.rules
+ 1022  sudo gpasswd -a tof adbusers
+ 1023  adb devices
+ 1024  sudo udevadm control --reload-rules
+ 1025  adb devices
+ 1026  sudo pacman -S dropbox
+ 1027  cd git/
+ 1028  git clone https://github.com/grafiton/repository.git
+ 1029  git clone https://github.com/grafiton/slides.git
+ 1030  cd slides/
+ 1031  git checkout --orphan gh-pages
+ 1032  cd ~/Documents/
+ 1033  ls
+ 1034  mv my-presentation.* ~/git/slides/
+ 1035  cd ~/git/slides/
+ 1036  ls
+ 1037  git add .
+ 1038  git commit -m "Adding Reveal.js files for presentation"
+ 1039  git config --global user.email "christophe.grain@gmail.com"
+ 1040  git config --global user.name "Christophe Grain"
+ 1041  Omit --global 
+ 1042  git Omit --global 
+ 1043  git commit -m "Adding Reveal.js files for presentation"
+ 1044  git push origin gh-pages
+ 1045  cp /home/tof/reveal.js/css/ /home/tof/git/slides/
+ 1046  cp -Rvf /home/tof/reveal.js/css/ /home/tof/git/slides/
+ 1047  cp -Rvf /home/tof/reveal.js/js/ /home/tof/git/slides/
+ 1048  cp -Rvf /home/tof/reveal.js/lib/ /home/tof/git/slides/
+ 1049  cp -Rvf /home/tof/reveal.js/plugin/ /home/tof/git/slides/
+ 1050  git add .
+ 1051  git commit -m "Adding Reveal.js files for presentation"
+ 1052  git push origin gh-pages
+ 1053  git add .
+ 1054  git commit -m "Adding Reveal.js files for presentation"
+ 1055  git push origin gh-pages
+ 1056  git add .
+ 1057  git push origin gh-pages
+ 1058  ls
+ 1059  firefox my-presentation.html
+ 1060  git config --global credential.helper 'cache --timeout=9600'
+ 1061  git add .
+ 1062  git commit -m "Adding Reveal.js files for presentation"
+ 1063  git push origin gh-pages
+ 1064  git checkout gh-pages  // -> go to gh-pages branch
+ 1065  git rebase master // bring gh-pages up to date with master
+ 1066  git push origin gh-pages // commit the changes
+ 1067  git checkout master // return to the master branch
+ 1068  git checkout gh-pages  
+ 1069  git rebase master 
+ 1070  git push origin gh-pages 
+ 1071  git checkout master 
+ 1072  git checkout gh-pages  
+ 1073  git push origin gh-pages 
+ 1074  git fetch origin gh-pages 
+ 1075  git merge origin gh-pages 
+ 1076  git push origin gh-pages 
+ 1077  git pul origin gh-pages 
+ 1078  git pull origin gh-pages 
+ 1079  git merge origin gh-pages 
+ 1080  ls
+ 1081  git pull origin gh-pages 
+ 1082  git checkout gh-pages  
+ 1083  git reset --merge
+ 1084  git checkout -f gh-pages  
+ 1085  git merge -s  gh-pages  
+ 1086  git merge -s  ours gh-pages  
+ 1087  git checkout gh-pages  
+ 1088  git merge gh-pages  
+ 1089  git push gh-pages  
+ 1090  git add .
+ 1091  git commit -m "commented email"
+ 1092  git push origin gh-pages 
+ 1093  git add .
+ 1094  git commit -m "commented email"
+ 1095  git push origin gh-pages 
+ 1096  git merge origin gh-pages 
+ 1097  git push origin gh-pages 
+ 1098  git pull origin gh-pages
+ 1099  git merge origin gh-pages
+ 1100  git push --force origin gh-pages 
+ 1101  ls
+ 1102  pathchk
+ 1103  path-test
+ 1104  path-test my-presentation.
+ 1105  path-test my-presentation.org
+ 1106  git fetch origin
+ 1107  git checjout gh-pages
+ 1108  git checkout gh-pages
+ 1109  git pull gh-pages
+ 1110  ls
+ 1111  git add .
+ 1112  git commit -m "fix google link"
+ 1113  git push --force origin gh-pages 
+ 1114  git push origin gh-pages 
+ 1115  git pull origin gh-pages 
+ 1116  history > history.last.txt

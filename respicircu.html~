@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Circulatory and respiratory system</title>
+
+<link rel="stylesheet" href="./css/reveal.css"/>
+<link rel="stylesheet" href="./css/theme/night.css" id="theme"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide">
+<h1>Circulatory and respiratory system</h1>
+<h2></h2>
+<h2><a href="mailto:tof@emg510">tof@emg510</a></h2>
+<h2></h2>
+</section>
+
+
+
+<section>
+<section id="slide-sec-1">
+<h2 id="sec-1">Through what organ does air move into the lungs?</h2>
+<p>
+The windpipe / The alveoli / The diaphragm
+</p>
+</section>
+<section id="slide-sec-1-1">
+<h3 id="sec-1-1">Through what organ does air move into the lungs?</h3>
+<p>
+<b>The windpipe</b> / The alveoli  / The diaphragm
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="sec-2">What is the proper term for breathing?</h2>
+<p>
+Ventilation / Respiration / Exasperation
+</p>
+</section>
+<section id="slide-sec-2-1">
+<h3 id="sec-2-1">What is the proper term for breathing?</h3>
+<p>
+<b>Ventilation</b> / Respiration / Exasperation
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="sec-3">What are the tiny air sacs in the lungs called?</h2>
+<p>
+Ravioli / Bronchioles  / Alveoli
+</p>
+</section>
+<section id="slide-sec-3-1">
+<h3 id="sec-3-1">What are the tiny air sacs in the lungs called?</h3>
+<p>
+Ravioli / Bronchioles  / <b>Alveoli</b>
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="sec-4">What are the products of aerobic respiration?</h2>
+<p>
+Carbon dioxide and water / Lactic acid / Oxygen and glucose
+</p>
+</section>
+<section id="slide-sec-4-1">
+<h3 id="sec-4-1">What are the products of aerobic respiration?</h3>
+<p>
+<b>Carbon dioxide and water</b> / Lactic acid / Oxygen and glucose
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="sec-5">Where does respiration happen?</h2>
+<p>
+Cell membrane / Mitochondria / Nucleus
+</p>
+</section>
+<section id="slide-sec-5-1">
+<h3 id="sec-5-1">Where does respiration happen?</h3>
+<p>
+Cell membrane / <b>Mitochondria</b> / Nucleus
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="sec-6">What reaction occurs in yeast?</h2>
+<p>
+Photosynthesis / Ventilation / Fermentation
+</p>
+</section>
+<section id="slide-sec-6-1">
+<h3 id="sec-6-1">What reaction occurs in yeast?</h3>
+<p>
+Photosynthesis / Ventilation / <b>Fermentation</b>
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-7">
+<h2 id="sec-7">Which organ system helps us breathe?</h2>
+<p>
+Gas exchange system / Circulatory system / Nervous system
+</p>
+</section>
+<section id="slide-sec-7-1">
+<h3 id="sec-7-1">Which organ system helps us breathe?</h3>
+<p>
+<b>Gas exchange system</b> / Circulatory system / Nervous system
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-8">
+<h2 id="sec-8">What does the trachea divide into?</h2>
+<p>
+Alveoli / Two bronchi / Bronchioles
+</p>
+</section>
+<section id="slide-sec-8-1">
+<h3 id="sec-8-1">What does the trachea divide into?</h3>
+<p>
+Alveoli / <b>Two bronchi</b> / Bronchioles
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-9">
+<h2 id="sec-9">What happens to the diaphragm when you breathe in?</h2>
+<p>
+Contracts and moves upwards / Relaxes and moves downwards / Contracts and moves downwards
+</p>
+</section>
+<section id="slide-sec-9-1">
+<h3 id="sec-9-1">What happens to the diaphragm when you breathe in?</h3>
+<p>
+<b>Contracts and moves upwards</b> / Relaxes and moves downwards / Contracts and moves downwards
+</p>
+</section>
+</section>
+<section>
+<section id="slide-sec-10">
+<h2 id="sec-10">Which of these is an adaptation of the lungs?</h2>
+<p>
+The alveoli have a huge surface area / Villi are only one cell thick / The alveoli have very dry walls
+</p>
+</section>
+<section id="slide-sec-10-1">
+<h3 id="sec-10-1">Which of these is an adaptation of the lungs?</h3>
+<p>
+<b>The alveoli have a huge surface area</b> / Villi are only one cell thick / The alveoli have very dry walls
+</p>
+</section>
+</section>
+</div>
+</div>
+
+<script src="./lib/js/head.min.js"></script>
+<script src="./js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: true,
+rollingLinks: false,
+keyboard: true,
+overview: true,
+margin: 0.00,
+minScale: 1.50,
+maxScale: 1.50,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: './plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+ { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
+</body>
+</html>
