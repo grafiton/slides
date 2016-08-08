@@ -7,9 +7,9 @@
 <style type="text/css">
 .underline { text-decoration: underline; }
 </style>
-<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+<link rel="stylesheet" href="file:///home/tof/reveal.js/css/reveal.css"/>
 
-<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/night.css" id="theme"/>
+<link rel="stylesheet" href="file:///home/tof/reveal.js/css/theme/night.css" id="theme"/>
 
 
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
@@ -18,7 +18,7 @@
         var link = document.createElement( 'link' );
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        link.href = 'file:///home/tof/reveal.js/css/print/pdf.css';
         document.getElementsByTagName( 'head' )[0].appendChild( link );
     }
 </script>
@@ -27,7 +27,7 @@
 <body>
 <div class="reveal">
 <div class="slides">
-<section id="sec-title-slide"><h1 class="title">Math Riddles</h1><h2 class="author">Chris</h2><p class="date">Created: 2016-08-08 Mon 20:50</p>
+<section id="sec-title-slide"><h1 class="title">Math Riddles</h1><h2 class="author">Chris</h2><p class="date">Created: 2016-08-08 Mon 21:42</p>
 </section>
 
 <section>
@@ -345,7 +345,7 @@ Bonus:<br  />
 </section>
 <section>
 <section id="slide-orgheadline32">
-<h2 id="orgheadline32">Math Riddles #18 - Identify Number Fact Puzzle</h2>
+<h2 id="orgheadline32">Math Riddles #17 - Identify Number Fact Puzzle</h2>
 <p>
 Identify a number which when multiplied by itself gives the result as 12345678987654321. 
 </p>
@@ -366,7 +366,7 @@ Following the pattern, you can come straight at:<br  />
 </section>
 <section>
 <section id="slide-orgheadline34">
-<h2 id="orgheadline34">Math Riddles #19 - Find Out Who Survives Riddle</h2>
+<h2 id="orgheadline34">Math Riddles #18 - Find Out Who Survives Riddle</h2>
 <p>
 100 people are standing in a circle. The person standing at number 1 is having a sword. He kills the person next to him with the sword and then gives the sword to the third person. This process is carried out till there is just one person left.
 Can you find out who survives? 
@@ -387,7 +387,7 @@ Till the number is the power of 2, the last person to survive will be the one wh
 </section>
 <section>
 <section id="slide-orgheadline36">
-<h2 id="orgheadline36">Math Riddles #20 - Popular Tricky Picture Death Riddle</h2>
+<h2 id="orgheadline36">Math Riddles #19 - Popular Tricky Picture Death Riddle</h2>
 <p>
 AS you can see the picture, all you have to do is analyze it and tell who all from the pictured people will die if the person at E pushes the round object to the slide on the slope. Keep in mind all the physics and the terrain while you analyze the things. 
 <img src="./images/popular.png" alt="popular.png" />
@@ -407,7 +407,7 @@ AS you can see the picture, all you have to do is analyze it and tell who all fr
 </section>
 <section>
 <section id="slide-orgheadline38">
-<h2 id="orgheadline38">Math Riddles #21 - Tricky But Simple Maths Equation</h2>
+<h2 id="orgheadline38">Math Riddles #20 - Tricky But Simple Maths Equation</h2>
 <p>
 2<sup>987</sup> - 2<sup>986</sup> 
 </p>
@@ -423,7 +423,7 @@ AS you can see the picture, all you have to do is analyze it and tell who all fr
 </section>
 <section>
 <section id="slide-orgheadline40">
-<h2 id="orgheadline40">Math Riddles #22 - Popular Math Problem</h2>
+<h2 id="orgheadline40">Math Riddles #21 - Popular Math Problem</h2>
 <p>
 Evaluate 100<sup>2</sup> - 99<sup>2</sup> + 98<sup>2</sup> - 97<sup>2</sup> + 96<sup>2</sup> - 95<sup>2</sup> + &#x2026; + 2<sup>2</sup> - 1<sup>2</sup> =? 
 </p>
@@ -449,7 +449,7 @@ In such case, we may as well write 100<sup>2</sup> - 99<sup>2</sup> + 98<sup>2</
 </section>
 <section>
 <section id="slide-orgheadline42">
-<h2 id="orgheadline42">Math Riddles #23 - Maths Logical Problem</h2>
+<h2 id="orgheadline42">Math Riddles #22 - Maths Logical Problem</h2>
 <p>
 The digits 0-9(0,1,2,3,4,5,6,7,8,9) can be rearranged into 3628800 distinct 10 digits numbers.
 </p>
@@ -473,7 +473,7 @@ The sum of numbers from 0-9(0,1,2,3,4,5,6,7,8,9) is 45 and therefore can be divi
 </section>
 <section>
 <section id="slide-orgheadline44">
-<h2 id="orgheadline44">Math Riddles #24 - Maths Trick Riddle</h2>
+<h2 id="orgheadline44">Math Riddles #23 - Maths Trick Riddle</h2>
 <p>
 I know a number which when multiplied by multiple of 9 i.e 9 18 27 36 45 &#x2026; the output consist of number containing only one digit.
 </p>
@@ -501,7 +501,7 @@ Can you identify the number ?
 </section>
 <section>
 <section id="slide-orgheadline46">
-<h2 id="orgheadline46">Math Riddles #25 - Maths Magic Riddle</h2>
+<h2 id="orgheadline46">Math Riddles #24 - Maths Magic Riddle</h2>
 <p>
 I can prove why 1 = 2
 </p>
@@ -534,7 +534,7 @@ Step 5 is invalid, because we are dividing by (x-y), and since x=y, we are thus 
 </section>
 <section>
 <section id="slide-orgheadline48">
-<h2 id="orgheadline48">Math Riddles #26 - Mathematics Puzzle : Catch The Train</h2>
+<h2 id="orgheadline48">Math Riddles #25 - Mathematics Puzzle : Catch The Train</h2>
 <p>
 Tarun Asthnaiya go to his office by local train. However nearby train station is quite far from his place and he used to drive his bike to train station daily with an average speed of 60km/hr. One day at halfway point he relized that due to heavy traffic he got late having average speed of just 30km/hr.How fast he must drive for the rest of the way to catch my local train ?
 </p>
@@ -550,7 +550,7 @@ The train is just about to leave the station and there is no way tarun will be a
 </section>
 <section>
 <section id="slide-orgheadline50">
-<h2 id="orgheadline50">Math Riddles #27 - Tricky Maths Riddle</h2>
+<h2 id="orgheadline50">Math Riddles #26 - Tricky Maths Riddle</h2>
 <p>
 Hockey Stick and ball cost $50. If the Stick cost $49 more than the ball. 
 </p>
@@ -570,7 +570,7 @@ Hockey Stick $49.50 &amp; ball $0.50
 </section>
 <section>
 <section id="slide-orgheadline52">
-<h2 id="orgheadline52">Math Riddles #28 - Eight Eights Brain Teaser</h2>
+<h2 id="orgheadline52">Math Riddles #27 - Eight Eights Brain Teaser</h2>
 <p>
 Using eight eights and addition only, can you make 1000? 
 </p>
@@ -586,7 +586,7 @@ Using eight eights and addition only, can you make 1000?
 </section>
 <section>
 <section id="slide-orgheadline54">
-<h2 id="orgheadline54">Math Riddles #29 - Hard Maths Number Riddle</h2>
+<h2 id="orgheadline54">Math Riddles #28 - Hard Maths Number Riddle</h2>
 <p>
 Create a number using only the digits 4,4,3,3,2,2,1 and 1. So it can only be eight digits. You have to make sure the ones are separated by one digit, the twos are separated by two digits the threes are separated with three digits and the fours are separated by four digits 
 </p>
@@ -602,7 +602,7 @@ Create a number using only the digits 4,4,3,3,2,2,1 and 1. So it can only be eig
 </section>
 <section>
 <section id="slide-orgheadline56">
-<h2 id="orgheadline56">Math Riddles #30 - Really Hard Algebra Puzzle</h2>
+<h2 id="orgheadline56">Math Riddles #29 - Really Hard Algebra Puzzle</h2>
 <p>
 2+3=8,<br  />
 3+7=27,<br  />
@@ -635,40 +635,15 @@ x+y=x[y+(x-1)]=x<sup>2</sup>+xy-x
 </section>
 <section>
 <section id="slide-orgheadline58">
-<h2 id="orgheadline58">Math Riddles #31 - Live Or Die Probability Puzzle</h2>
-<p>
-Hussey has been caught stealing goats, and is brought into court for justice. 
-The judge is his ex-wife Amy Hussey, who wants to show him some sympathy, but the law clearly calls for two shots to be taken at Hussey from close range. 
-To make things a little better for Hussey, Amy Hussey tells him she will place two bullets into a six-chambered revolver in successive order. 
-She will spin the chamber, close it, and take one shot. 
-If Hussey is still alive, she will then either take another shot, or spin the chamber again before shooting.
-Hussey is a bit incredulous that his own ex-wife would carry out the punishment, and a bit sad that she was always such a rule follower. 
-He steels himself as Amy Hussey loads the chambers, spins the revolver, and pulls the trigger. Whew! It was blank. Then Amy Hussey asks, 'Do you want me to pull the trigger again, or should I spin the chamber a second time before pulling the trigger?'
-What should Hussey choose? 
-</p>
-</section>
-</section>
-<section>
-<section id="slide-orgheadline59">
-<h2 id="orgheadline59">Solution:</h2>
-<p>
-Hussey should have Amy Hussey pull the trigger again without spinning.
-We know that the first chamber Amy Hussey fired was one of the four empty chambers. Since the bullets were placed in consecutive order, one of the empty chambers is followed by a bullet, and the other three empty chambers are followed by another empty chamber. So if Hussey has Amy Hussey pull the trigger again, the probability that a bullet will be fired is 1/4.
-If Amy Hussey spins the chamber again, the probability that she shoots Hussey would be 2/6, or 1/3, since there are two possible bullets that would be in firing position out of the six possible chambers that would be in position.
-</p>
-</section>
-</section>
-<section>
-<section id="slide-orgheadline60">
-<h2 id="orgheadline60">Math Riddles #32 - Maths Quick Brain Teaser (√9%)</h2>
+<h2 id="orgheadline58">Math Riddles #30 - Maths Quick Brain Teaser (√9%)</h2>
 <p>
 Solve the quickfire maths brain teaser \(\sqrt{9%}\) = ? 
 </p>
 </section>
 </section>
 <section>
-<section id="slide-orgheadline61">
-<h2 id="orgheadline61">Solution:</h2>
+<section id="slide-orgheadline59">
+<h2 id="orgheadline59">Solution:</h2>
 <p>
 <b>30%</b>
 </p>
@@ -684,16 +659,16 @@ Explanation: <br  />
 </section>
 </section>
 <section>
-<section id="slide-orgheadline62">
-<h2 id="orgheadline62">Math Riddles #34 - Number One Gone Trick Teaser</h2>
+<section id="slide-orgheadline60">
+<h2 id="orgheadline60">Math Riddles #31 - Number One Gone Trick Teaser</h2>
 <p>
 I can make the number one gone by adding something to it. Can you ?
 </p>
 </section>
 </section>
 <section>
-<section id="slide-orgheadline63">
-<h2 id="orgheadline63">Solution:</h2>
+<section id="slide-orgheadline61">
+<h2 id="orgheadline61">Solution:</h2>
 <p>
 Yes, by adding 'G' to 'One'
 G + One =&gt; Gone
@@ -701,8 +676,8 @@ G + One =&gt; Gone
 </section>
 </section>
 <section>
-<section id="slide-orgheadline64">
-<h2 id="orgheadline64">Math Riddles #35 - Smart Maths Equation Puzzle</h2>
+<section id="slide-orgheadline62">
+<h2 id="orgheadline62">Math Riddles #32 - Smart Maths Equation Puzzle</h2>
 <p>
 When you remove one from eleven, it becomes ten. However, when you remove one from nine, it becomes ten as well.
 How can that be possible? 
@@ -710,22 +685,19 @@ How can that be possible?
 </section>
 </section>
 <section>
-<section id="slide-orgheadline65">
-<h2 id="orgheadline65">Solution:</h2>
+<section id="slide-orgheadline63">
+<h2 id="orgheadline63">Solution:</h2>
 <p>
-It is possible when you write the numbers in their Roman form.
+It is possible when you write the numbers in their Roman form.<br  />
+XI (11) - When you remove me from XI, it becomes X i.e. 1<br  />
+IX (9) - When you remove me from IX, it becomes X i.e. 10
 </p>
-<ul>
-<li>XI (11) - When you remove me from XI, it becomes X i.e. 10</li>
-<li>IX (9) - When you remove me from IX, it becomes X i.e. 10</li>
-
-</ul>
 </section>
 </section>
 </div>
 </div>
-<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
-<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+<script src="file:///home/tof/reveal.js/lib/js/head.min.js"></script>
+<script src="file:///home/tof/reveal.js/js/reveal.js"></script>
 
 <script>
 // Full list of configuration options available here:
@@ -755,11 +727,11 @@ multiplex: {
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
- { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
- { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
- { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
- { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+ { src: 'file:///home/tof/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: 'file:///home/tof/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///home/tof/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'file:///home/tof/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'file:///home/tof/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
 });
 </script>
 </body>
