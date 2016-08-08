@@ -1,0 +1,272 @@
+#+Title: Math Riddles
+#+Author: Chris
+#+Email:
+#+OPTIONS: toc:nil reveal_mathjax:t
+#+OPTIONS: num:nil
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear 
+#+REVEAL_MARGIN: 0
+#+REVEAL_MIN_SCALE: 1
+#+REVEAL_MAX_SCALE: 1.5
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+* Math Riddles #1 - Prime Number Riddle 
+Can you find four consecutive prime numbers that add up to 220 ? 
+* Solution:
+47 + 53 + 59 + 61 = 220
+* Math Riddles #2 - Tough Maths Riddle 
+Take 9 from 6, 10 from 9, 50 from 40 and leave 6.
+* Solution:
+- SIX - 9 (IX) = S
+- 9 (IX) - 10 (X) = I
+- 40 (XL) - 50 (L) = X
+
+=> SIX
+* Math Riddles #3 - Tricky Math Riddle 
+What do you get if you add 3 to 300 five times? 
+* Solution:
+303 , 303 , 303 , 303 , 303
+* Math Riddles #4 - Funny Maths Riddle    
+If you had a pizza with crust thickness 'a' and radius 'z', what's the volume of the pizza? 
+* Solution:
+pi * z * z * a
+* Math Riddles #5 - Easy Tricky Maths Riddle 
+Find three positive whole numbers that have the same answer added together or when multiplied together.
+* Solution:
+1,2, & 3
+1 x 2 x 3 = 6 and 1 + 2 + 3 = 6
+* Math Riddles #6 - Math Or Science Problem 
+When Deepak was six years old he hammered a nail into his favorite tree to mark his height. 
+Five years later at age eleven , Deepak returned to see how much higher the nail was. 
+If the tree grew by ten inches each year, how much higher would the nail be?
+* Solution:
+The nail would be at the same height since trees grow at their tops.
+* Math Riddles #7 - Number Eight Math Riddle 
+In a new Engineering Hostels containing 100 rooms. Ankit Garg was hired to paint the numbers 1 to 100 on the doors. 
+How many times will Ankit have to paint the number eight ? 
+* Solution:
+20 times
+* Math Riddles #8 - Common Exam Problem 
+- 5+3+2 = 151022
+- 9+2+4 = 183652
+- 8+6+3 = 482466
+- 5+4+5 = 202541
+Then, 7+2+5 = ? 
+* Solution:
+143547
+* Math Riddles #9 - Mathematical Equation Riddle 
+Replace the '?' by any mathematical symbol to make the expression equal to 99.
+18 ? 12 ? 2 ? 3 = 111 
+* Solution:
+18 x 12 ÷ 2 + 3 = 111
+* Math Riddles #10 - Car Meter Riddle 
+Today my car meter reads as 72927 kms. I notes that this is a palindrome. How many minimum kms i need to travel so my car meter find another palindrom. 
+* Solution:
+110 kms 
+
+72927+110 = 73037 , a palindrome
+* Math Riddles #11 - Maths Number Riddle 
+Can you arrange four nines to make it equal to 100.
+
+Hint: use two mathematical symbols. 
+* Solution:
+99+9/9 = 100
+* Math Riddles #12 - Trick Maths Riddle 
+What is the value of 1/2 of 2/3 of 3/4 of 4/5 of 5/6 of 6/7 of 7/8 of 8/9 of 9/10 of 1000? 
+* Solution:
+100. Looks hard? Don't worry, just work it backwards and you'll find it very easy.
+* Math Riddles #13 - Divide Into Two parts Riddle 
+Divide 110 into two parts so that one will be 150 percent of the other. What are the 2 numbers? 
+* Solution:
+44 and 66
+* Math Riddles #14 - Maths Logic Problem 
+Large number of people went to an party and they decided to make some fun at the bar.
+The first person asks the barman for half a pint of beer.
+The second person asks for a quarter pint of beer 
+The third person asks for one-eighth of beer and so on ...
+
+How many pints of beer will the barman need to fulfill the people need of beer ? 
+* Solution:
+Just 1
+* Math Riddles #15 - Tricky Distance Riddle 
+Two villages Owlna and Kathur are exactly 2000 km apart.
+
+Pramod leaves City "owlna" driving at 50 km/hr and Anmol leaves City "Kathur" a half an hour later driving 90 km/hr. Who will be closer to City "Owlna" when they meet? 
+* Solution:
+Both would be the same distance from City Owlna. (since they are at a same point)
+* Math Riddles #16 - Algebraic Expressions Puzzle 
+- 2 2 2 = 6
+- 3 3 3 = 6
+- 4 4 4 = 6
+- 5 5 5 = 6
+- 6 6 6 = 6
+- 7 7 7 = 6
+- 8 8 8 = 6
+- 9 9 9 = 6
+Bonus (very hard):
+- 0 0 0 = 6
+- 1 1 1 = 6
+You can use any mathematical symbols in the space provided to make all above algebraic expressions true. 
+*Solution:
+2 + 2 + 2 = 6
+3 * 3 - 3 = 6
+4 + 4 -sqrt(4) = 6
+5 + 5 / 5 = 6
+6 + 6 - 6 = 6
+7 - 7 / 7 =6
+8 - sqrt(sqrt(8+8) = 6
+(9 + 9) / sqrt(9) = 6
+Bonus:
+(0! + 0! + 0! )! =6
+(1! + 1! + 1! )! =6
+* Math Riddles #18 - Identify Number Fact Puzzle 
+Identify a number which when multiplied by itself gives the result as 12345678987654321. 
+* Solution:
+1 * 1 = 1
+11 * 11 = 121
+111 * 111 = 12321
+1111 * 1111 = 1234321
+Following the pattern, you can come straight at:
+111111111 * 111111111 = 11=2345678987654321
+* Math Riddles #19 - Find Out Who Survives Riddle 
+100 people are standing in a circle. The person standing at number 1 is having a sword. He kills the person next to him with the sword and then gives the sword to the third person. This process is carried out till there is just one person left.
+
+Can you find out who survives? 
+* Solution:
+The person on 73rd number will survive.
+Explanation:
+Till the number is the power of 2, the last person to survive will be the one who started it. But since the number here is not the power of 2, we will take the greatest power of 2 that is less than the number which is 64. 
+100 - 64 = 36
+36 people are killed as 2, 4, 6, ..., 72. Thus the sword will now be given to the 73rd person. Now he is the first person to start in the remaining 64 people. Thus he will be the one to survive.
+* Math Riddles #20 - Popular Tricky Picture Death Riddle 
+AS you can see the picture, all you have to do is analyze it and tell who all from the pictured people will die if the person at E pushes the round object to the slide on the slope. Keep in mind all the physics and the terrain while you analyze the things. 
+[[./images/popular.png]]
+* Solution:
+# If you notice the animated gif, you know that D, C and B are going to die. D dies directly after coming in contact with the object, C dies after being thrust by the spikes of the see-saw and B dies with the blue ball.
+[[./images/popular.gif]]
+# But consider the situation that the person at E stands for Ebola. Eventually A dies as well.
+* Math Riddles #21 - Tricky But Simple Maths Equation 
+2^987 - 2^986 
+* Solution:
+*2^986*
+* Math Riddles #22 - Popular Math Problem 
+Evaluate 100^2 - 99^2 + 98^2 - 97^2 + 96^2 - 95^2 + ... + 2^2 - 1^2 =? 
+* Solution:
+*5050*
+
+Explanation:
+You must have noticed that 50 pairs of n^2 – (n-1) ^2 exist.
+n^2 – (n-1)^2 = n + (n – 1)
+
+In such case, we may as well write 100^2 - 99^2 + 98^2 - 97^2 + 96^2 - 95^2 + ... + 2^2 - 1^2 as 100 + 99 + 98+ ... + 2 + 1 = (100 x 101)/2 = 5050
+* Math Riddles #23 - Maths Logical Problem 
+The digits 0-9(0,1,2,3,4,5,6,7,8,9) can be rearranged into 3628800 distinct 10 digits numbers.
+
+How many of these numbers are prime ? 
+* Solution:
+None
+
+The sum of numbers from 0-9(0,1,2,3,4,5,6,7,8,9) is 45 and therefore can be divisible by 3 and 9.
+* Math Riddles #24 - Maths Trick Riddle 
+I know a number which when multiplied by multiple of 9 i.e 9 18 27 36 45 ... the output consist of number containing only one digit.
+
+Can you identify the number ? 
+* Solution:
+12345679
+
+- 12345679 × 9 = 111111111 (only 1s)
+- 12345679 × 18 = 222222222 (only 2s)
+- 12345679 × 27 = 333333333 (only 3s)
+- 12345679 × 36 = 444444444 (only 4s)
+- 12345679 × 45 = 555555555 (only 5s)
+* Math Riddles #25 - Maths Magic Riddle 
+I can prove why 1 = 2
+
+Step1. Lets say y = x
+Step2. Multiply through by x xy = x2
+Step3. Subtract y2 from each side xy - y2 = x2 - y2
+Step4. Factor each side y(x-y) = (x+y)(x-y)
+Step5. Divide both sides by (x-y) y = x+y
+Step6. Divide both sides by y y/y = x/y + y/y
+Step7. And so... 1 = x/y + 1
+Step8. Since x=y, x/y = 1 1 = 1 + 1
+Step9. And so... 1 = 2
+
+How is this possible ? 
+* Solution:
+Step 5 is invalid, because we are dividing by (x-y), and since x=y, we are thus dividing by 0. This is an invalid mathematical operation (division by 0), and so by not following basic mathematical rules
+ 
+* Math Riddles #26 - Mathematics Puzzle : Catch The Train 
+Tarun Asthnaiya go to his office by local train. However nearby train station is quite far from his place and he used to drive his bike to train station daily with an average speed of 60km/hr. One day at halfway point he relized that due to heavy traffic he got late having average speed of just 30km/hr.How fast he must drive for the rest of the way to catch my local train ?
+* Solution:
+The train is just about to leave the station and there is no way tarun will be able to catch it this time.
+* Math Riddles #27 - Tricky Maths Riddle 
+Hockey Stick and ball cost $50. If the Stick cost $49 more than the ball. 
+
+what is the cost of each ?
+* Solution:
+Hockey Stick $49.50 & ball $0.50
+* Math Riddles #28 - Eight Eights Brain Teaser 
+Using eight eights and addition only, can you make 1000? 
+* Solution:
+888 + 88 + 8 + 8 + 8 = 1000
+* Math Riddles #29 - Hard Maths Number Riddle 
+Create a number using only the digits 4,4,3,3,2,2,1 and 1. So it can only be eight digits. You have to make sure the ones are separated by one digit, the twos are separated by two digits the threes are separated with three digits and the fours are separated by four digits 
+* Solution:
+*41312432*
+* Math Riddles #30 - Really Hard Algebra Puzzle 
+- 2+3=8,
+- 3+7=27,
+- 4+5=32,
+- 5+8=60,
+- 6+7=72,
+- 7+8=??
+- Solve it? 
+* Solution:
+*98*
+
+- 2+3=2*[3+(2-1)]=8
+- 3+7=3*[7+(3-1)]=27
+- 4+5=4*[5+(4-1)]=32
+- 5+8=5*[8+(5-1)]=60
+- 6+7=6*[7+(6-1)]=72
+therefore
+- 7+8=7*[8+(7-1)]=98
+- x+y=x[y+(x-1)]=x^2+xy-x
+* Math Riddles #31 - Live Or Die Probability Puzzle 
+Hussey has been caught stealing goats, and is brought into court for justice. 
+The judge is his ex-wife Amy Hussey, who wants to show him some sympathy, but the law clearly calls for two shots to be taken at Hussey from close range. 
+To make things a little better for Hussey, Amy Hussey tells him she will place two bullets into a six-chambered revolver in successive order. 
+She will spin the chamber, close it, and take one shot. 
+If Hussey is still alive, she will then either take another shot, or spin the chamber again before shooting.
+Hussey is a bit incredulous that his own ex-wife would carry out the punishment, and a bit sad that she was always such a rule follower. 
+He steels himself as Amy Hussey loads the chambers, spins the revolver, and pulls the trigger. Whew! It was blank. Then Amy Hussey asks, 'Do you want me to pull the trigger again, or should I spin the chamber a second time before pulling the trigger?'
+What should Hussey choose? 
+* Solution:
+Hussey should have Amy Hussey pull the trigger again without spinning.
+We know that the first chamber Amy Hussey fired was one of the four empty chambers. Since the bullets were placed in consecutive order, one of the empty chambers is followed by a bullet, and the other three empty chambers are followed by another empty chamber. So if Hussey has Amy Hussey pull the trigger again, the probability that a bullet will be fired is 1/4.
+If Amy Hussey spins the chamber again, the probability that she shoots Hussey would be 2/6, or 1/3, since there are two possible bullets that would be in firing position out of the six possible chambers that would be in position.
+* Math Riddles #32 - Maths Quick Brain Teaser (√9%) 
+Solve the quickfire maths brain teaser √9% = ? 
+* Solution:
+*30%*
+
+Explanation: 
+√9% 
+- √9/√100 
+- 3/10 
+- 30/100 
+- 30%
+* Math Riddles #34 - Number One Gone Trick Teaser 
+I can make the number one gone by adding something to it. Can you ?
+* Solution:
+Yes, by adding 'G' to 'One'
+G + One => Gone
+* Math Riddles #35 - Smart Maths Equation Puzzle 
+When you remove one from eleven, it becomes ten. However, when you remove one from nine, it becomes ten as well.
+How can that be possible? 
+* Solution:
+It is possible when you write the numbers in their Roman form.
+- XI (11) - When you remove me from XI, it becomes X i.e. 10
+- IX (9) - When you remove me from IX, it becomes X i.e. 10
+

@@ -1,5 +1,5 @@
 #+Title: Photosynthesis quiz
-#+Author:
+#+AUTHOR:
 #+Email:
 #+OPTIONS: toc:nil reveal_mathjax:t
 #+OPTIONS: num:nil
